@@ -39,7 +39,6 @@
 
 
 ### Testing Resources:
-
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
 - [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
 - [FiveFilters - Block Ads](https://blockads.fivefilters.org/)
@@ -58,6 +57,20 @@
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
 
+
+### Windows
+- [Hardentools](https://github.com/hardentools/hardentools)
+- [Portmaster](https://github.com/Safing/portmaster)
+- [Unchecky](https://unchecky.com/)
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
+- [WPD](https://wpd.app/)
+- [DoNotSpy11](https://pxc-coding.com/donotspy11/)
+- [W10Privacy](https://www.w10privacy.de/english-home/)
+- [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/)
+- [Privacy Repairer](https://www.securilla.com/privacy-repairer)
+- [Debotnet](https://github.com/builtbybel/debotnet)
+- [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
+
 ### Arabic Resources:
 
 - [Salamat Mena Portal](https://portal.salamatmena.org/)
@@ -67,7 +80,11 @@
 - [Arab Sciences - Cyber Terrorism](https://arabsciences.com/2017/11/28/cyber-terror/)
 
 ## Free and Open-Source Software (FOSS) Resources:
-
+- [Constant Robotics](https://www.constantrobotics.com/)
+- [OSS Insight](https://ossinsight.io/)
+- [Open Source Alternative](https://www.opensourcealternative.to/)
+- [Deps.dev](https://deps.dev/)
+- [Hugging Face](https://huggingface.co/)
 - [Sindre Sorhus - Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
@@ -76,7 +93,24 @@
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Wiki](https://github.com/requarks/wiki)
-
+- [Kolibri (Read the Docs)](https://readthedocs.org/projects/kolibri/)
+- [YunoHost](https://yunohost.org/#/)
+- [FreePBX](https://www.freepbx.org/)
+- [FreedomBox](https://freedombox.org/download/)
+- [Ignite Realtime](https://www.igniterealtime.org/downloads/)
+- [Open Hospital](https://www.open-hospital.org/)
+- [Odoo](https://www.odoo.com/)
+- [Manager](https://www.manager.io/)
+- [Monica](https://github.com/monicahq/monica)
+- [HashiCorp](https://www.hashicorp.com/)
+- [Snyk](https://snyk.io/)
+- [Open Tofu](https://opentofu.org/)
+- [LinOTP](https://www.linotp.org/)
+- [Iconduck](https://iconduck.com/)
+- [Foss Torrents](https://fosstorrents.com/)
+- [LibreTranslate](https://libretranslate.com/)
+- [Trilium](https://github.com/zadam/trilium)
+- [CSS.gg](https://css.gg/)
 
 ### SDR
 - [GNU Radio](https://www.gnuradio.org/)
@@ -103,11 +137,9 @@
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 - [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
 
-
 ### Android Apps
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [Bitwarden Mobile](https://github.com/bitwarden/mobile)
-- [Organic Maps](https://github.com/organicmaps/organicmaps)
 - [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
 - [Quillpad](https://github.com/quillpad/quillpad)
 - [MyBrain](https://github.com/mhss1/MyBrain)
@@ -128,6 +160,24 @@
 - [Collabora Office (Android & iOS)](https://www.collaboraoffice.com/collabora-office-android-ios/)
 - [Hevy](https://www.hevyapp.com/)
 
+### Mapping and Navigation
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [OsmAnd](https://osmand.net/)
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [SatelliteMap](https://satellitemap.space/)
+- [Wigle](https://wigle.net/)
+
+### Satellite Imagery and Fire Monitoring
+- [NASA Fire Information for Resource Management System](https://firms.modaps.eosdis.nasa.gov/map/)
+
+### Maritime Tracking
+- [MarineTraffic](https://www.marinetraffic.com)
+- [VesselFinder](https://www.vesselfinder.com)
+
+### Flight Tracking
+- [PlaneFinder](https://planefinder.net)
+
 ### Use Cases for Home Server
 - **File Storage and Sharing:**
   - [Nextcloud](https://nextcloud.com/)
@@ -147,6 +197,7 @@
 - **Firewall and Network Security:**
   - [pfSense](https://www.pfsense.org/)
   - [OPNsense](https://opnsense.org/)
+  - [VyOS](https://vyos.io/)
 
 - **Intrusion Detection and Prevention Systems (IDPS):**
   - [Wazuh](https://github.com/wazuh/wazuh)
