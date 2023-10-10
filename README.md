@@ -79,6 +79,13 @@
 - [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
 - [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
 
+#### File Encryption Software
+- [VeraCrypt](https://veracrypt.fr/en/Home.html)
+- [GNU Privacy Guard (GnuPG)](https://gnupg.org/)
+- [7-Zip](https://7-zip.org/)
+- [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
+- [Cryptomator](https://github.com/cryptomator)
+
 ### Arabic Resources:
 #### Blogs/News/Articles
 - [SalamaTech](https://salamatech.org/)
