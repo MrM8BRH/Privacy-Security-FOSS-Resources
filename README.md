@@ -4,9 +4,9 @@
 </div>
 
 ## Privacy & Security
-
 ### English Resources:
-
+- [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- [StopNCII](https://stopncii.org/)
 - [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
 - [Techlore - Resources](https://www.techlore.tech/resources)
 - [Techlore - VPN](https://www.techlore.tech/vpn)
@@ -16,6 +16,7 @@
 - [Spyware](https://spyware.neocities.org/)
 - [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
 - [European Alternatives](https://european-alternatives.eu/categories)
+- [Security.org](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [Switching Software](https://switching.software/)
@@ -23,22 +24,26 @@
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 - [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
 - [Exif Cleaner](https://exifcleaner.com/)
-- [Android IMSI Catcher Detector Recommendations](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
-- [F-Droid](https://f-droid.org/)
-- [Aurora Store](https://auroraoss.com/)
-- [microG](https://microg.org/)
 - [NoSystemd](https://nosystemd.org/)
-- [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
 
-### Blogs/Articles Resources:
+#### Leaks
+1. [Wikileaks Leaks](https://wikileaks.org/-Leaks-.html)
+2. [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+3. [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+
+#### Blogs/Articles Resources:
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
+- [Secure in Style Blog](https://secureinstyle.blog/)
+- [Biometric Update](https://www.biometricupdate.com/)
+- [Citizen Lab](https://citizenlab.ca/)
+- [Help Net Security](https://www.helpnetsecurity.com/)
 - [Reddit - r/privacy](https://www.reddit.com/r/privacy/)
 - [Medium - Privacy](https://medium.com/tag/privacy)
 - [The Tor Project Blog](https://blog.torproject.org/)
 - [Dark Reading - Privacy](https://www.darkreading.com/privacy)
+- [How to Clear the Cache and Cookies in Your Web Browser](https://its.uiowa.edu/support/article/719)
 
-
-### Testing Resources:
+#### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
 - [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
 - [FiveFilters - Block Ads](https://blockads.fivefilters.org/)
@@ -52,13 +57,13 @@
 - [EICAR - Anti-Malware Test File](https://www.eicar.org/)
 - [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
 
-### Router & DNS
+#### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
 
 
-### Windows
+#### Windows
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [Portmaster](https://github.com/Safing/portmaster)
 - [Unchecky](https://unchecky.com/)
@@ -70,14 +75,29 @@
 - [Privacy Repairer](https://www.securilla.com/privacy-repairer)
 - [Debotnet](https://github.com/builtbybel/debotnet)
 - [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
+- [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
 
 ### Arabic Resources:
-
-- [Salamat Mena Portal](https://portal.salamatmena.org/)
-- [Zanga Tech](https://zanga.tech/?platform=all)
+#### Blogs/News/Articles
 - [SalamaTech](https://salamatech.org/)
 - [SalamaTech Wiki](https://salamatechwiki.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+- [Salamat Mena Portal](https://portal.salamatmena.org/)
+- [AOSUS Discourse - Privacy & Security](https://discourse.aosus.org/c/privacy-security/37)
+- [Euronews Arabic - Cyber Security](https://arabic.euronews.com/tag/cyber-security)
+- [Zanga Tech](https://zanga.tech/?platform=all)
 - [Arab Sciences - Cyber Terrorism](https://arabsciences.com/2017/11/28/cyber-terror/)
+#### YouTube
+- <a href="https://www.youtube.com/playlist?list=PLJyrzEL-wvYJ75QydgsrBuzC944eE8VLT" dir="ltr">ما خفي أعظم</a>
+- <a href="https://www.youtube.com/watch?v=b3NtvEmoKjQ" dir="ltr">أبرز الشركات التقنية الإسرائيلية في مجال التجسس الإلكتروني</a>
+- <a href="https://www.youtube.com/watch?v=sj5I8B_aHAE" dir="ltr">الاقليم المحتل هكذا تقوم الصين بأذلال وسجن مليون مسلم</a>
+- <a href="https://www.youtube.com/watch?v=w6537cTOlPg" dir="ltr">فيس بوك النشأة والتورط في العمل الاستخباراتي</a>
+- <a href="https://www.youtube.com/watch?v=GXuxaKo73oY" dir="ltr">الدحيح - تغريدة المخابرات الأمريكية</a>
+- <a href="https://www.youtube.com/watch?v=wJP7x1LZiX0" dir="ltr">ياهو تتجسس على عملائها لصالح الاستخبارات</a>
+- <a href="https://www.youtube.com/watch?v=7rqU5EQ8WNk" dir="ltr">ماذا تعرف عن الوحدة الاستخباراتية الاسرائيلية 8200</a>
+- <a href="https://www.youtube.com/watch?v=ggiaOyJysVI" dir="ltr">أفيخاي أدرعي كيف تخترقنا إسرائيل عبر الدعاية؟</a>
+- <a href="https://www.youtube.com/watch?v=N8czgvHQyik" dir="ltr">تقنيات مرعبة.. انتحال شخصيتك أصبح واقعا!</a>
+- <a href="https://www.youtube.com/watch?v=3rKpooXkcOc" dir="ltr">مشاريع الجيش الأمريكي السرية</a>
+- <a href="https://www.youtube.com/watch?v=25P5y1SZ5bM" dir="ltr">لعبة الاستخبارات الصينية.. كيف اخترقت التكنولوجيا الغربية وسرقتها؟</a>
 
 ## Free and Open-Source Software (FOSS) Resources:
 - [Constant Robotics](https://www.constantrobotics.com/)
@@ -110,7 +130,7 @@
 - [Foss Torrents](https://fosstorrents.com/)
 - [LibreTranslate](https://libretranslate.com/)
 - [Trilium](https://github.com/zadam/trilium)
-- [CSS.gg](https://css.gg/)
+- [CSS](https://css.gg/)
 
 ### SDR
 - [GNU Radio](https://www.gnuradio.org/)
@@ -138,6 +158,10 @@
 - [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
 
 ### Android Apps
+- [Android IMSI Catcher Detector Recommendations](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
+- [F-Droid](https://f-droid.org/)
+- [Aurora Store](https://auroraoss.com/)
+- [microG](https://microg.org/)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [Bitwarden Mobile](https://github.com/bitwarden/mobile)
 - [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
