@@ -110,6 +110,20 @@
 - [Czkawka](https://github.com/qarmin/czkawka)
 - [Dism Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)
 
+#### Privacy and Security Extensions for Firefox
+- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+- [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+- [Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/)
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+- [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+- [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
+- [PopupOFF](https://addons.mozilla.org/en-US/firefox/addon/popupoff/)
+
 #### Ransomware Decryption Tools
 - [Quick Heal Free Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
 - [No More Ransom - Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)
