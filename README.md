@@ -7,6 +7,8 @@
 ### English Resources:
 - [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [StopNCII](https://stopncii.org/)
+- [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
+- [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
 - [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
 - [Techlore - Resources](https://www.techlore.tech/resources)
 - [Techlore - VPN](https://www.techlore.tech/vpn)
