@@ -86,6 +86,15 @@
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 - [Cryptomator](https://github.com/cryptomator)
 
+#### Ransomware Decryption Tools
+- [Quick Heal Free Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
+- [No More Ransom - Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)
+- [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/en/ransomware-decryption/)
+- [Kaspersky No Ransom](https://noransom.kaspersky.com/)
+- [Avast Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)
+- [BleepingComputer Ransomware Decryptors](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)
+- [BugsFighter Ransomware](https://www.bugsfighter.com/ransomware/)
+
 ### Arabic Resources:
 #### Blogs/News/Articles
 - [SalamaTech](https://salamatech.org/)
