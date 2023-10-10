@@ -64,7 +64,6 @@
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
 
-
 #### Windows
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [Portmaster](https://github.com/Safing/portmaster)
@@ -85,6 +84,15 @@
 - [7-Zip](https://7-zip.org/)
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 - [Cryptomator](https://github.com/cryptomator)
+
+#### Data Privacy and Secure File Handling Tools
+- [BleachBit](https://github.com/bleachbit/bleachbit)
+- [ExifCleaner](https://github.com/szTheory/exifcleaner)
+- [File Shredder](https://www.fileshredder.org/)
+- [Eraser](https://sourceforge.net/projects/eraser/)
+- [EXIF Eraser](https://github.com/Tommy-Geenexus/exif-eraser)
+- [Czkawka](https://github.com/qarmin/czkawka)
+- [Dism Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)
 
 #### Ransomware Decryption Tools
 - [Quick Heal Free Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
