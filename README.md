@@ -18,7 +18,7 @@
 - [Spyware](https://spyware.neocities.org/)
 - [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
 - [European Alternatives](https://european-alternatives.eu/categories)
-- [Security.org](https://www.security.org/)
+- [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [Switching Software](https://switching.software/)
