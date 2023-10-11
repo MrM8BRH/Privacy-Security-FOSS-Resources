@@ -278,6 +278,13 @@
 ### Flight Tracking
 - [PlaneFinder](https://planefinder.net)
 
+### Custom Firmware for Routers
+- [OpenWrt](https://openwrt.org/start)
+- [DD-WRT](https://dd-wrt.com/)
+- [AdvancedTomato](https://advancedtomato.com/)
+- [Asuswrt-Merlin](https://www.asuswrt-merlin.net/)
+
+
 ### Use Cases for Home Server
 - **File Storage and Sharing:**
   - [Nextcloud](https://nextcloud.com/)
