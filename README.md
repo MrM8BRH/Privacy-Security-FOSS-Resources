@@ -21,6 +21,7 @@
 - [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
 - [Privacy Tools](https://www.privacytools.io/)
+- [PrivacyTests](https://privacytests.org/)
 - [Switching Software](https://switching.software/)
 - [Two Factor Auth Directory](https://2fa.directory/int/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
@@ -28,10 +29,15 @@
 - [Exif Cleaner](https://exifcleaner.com/)
 - [NoSystemd](https://nosystemd.org/)
 
+#### Edward Snowden
+- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden's Twitter](https://twitter.com/Snowden)
+- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
+- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+
 #### Leaks
-1. [Wikileaks Leaks](https://wikileaks.org/-Leaks-.html)
-2. [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
-3. [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+- [Wikileaks Leaks](https://wikileaks.org/-Leaks-.html)
 
 #### Blogs/Articles Resources:
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
@@ -82,6 +88,8 @@
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
+- [Astra Linux OS](https://astralinux.ru/en/software-services/os/)
+- [Whonix](https://www.whonix.org/)
 - [Subgraph OS](https://subgraph.com/)
 - [GrapheneOS](https://grapheneos.org/)
 - [LineageOS](https://www.lineageos.org/)
@@ -187,6 +195,13 @@
 - [LibreTranslate](https://libretranslate.com/)
 - [Trilium](https://github.com/zadam/trilium)
 - [CSS](https://css.gg/)
+
+### Nostr Apps
+- [Nostrapps](https://www.nostrapps.com/)
+- [Iris](https://iris.to/)
+- [Damus](https://damus.io/)
+- [Amethyst on GitHub](https://github.com/vitorpamplona/amethyst)
+- [Snort.social](https://snort.social/)
 
 ### SDR
 - [GNU Radio](https://www.gnuradio.org/)
