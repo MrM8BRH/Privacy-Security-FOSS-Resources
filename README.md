@@ -36,8 +36,11 @@
 - [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
 - [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
 
-#### Leaks
-- [Wikileaks Leaks](https://wikileaks.org/-Leaks-.html)
+#### Transparency and Whistleblower Websites/Platforms
+- [SecureDrop](https://securedrop.org/)
+- [WikiLeaks](https://wikileaks.org/)
+- [Cryptome](https://cryptome.org/)
+- [GlobalLeaks](https://www.globaleaks.org/)
 
 #### Blogs/Articles Resources:
 - [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
