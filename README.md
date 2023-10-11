@@ -207,8 +207,8 @@
 - [Nostrapps](https://www.nostrapps.com/)
 - [Iris](https://iris.to/)
 - [Damus](https://damus.io/)
-- [Amethyst on GitHub](https://github.com/vitorpamplona/amethyst)
-- [Snort.social](https://snort.social/)
+- [Amethyst](https://github.com/vitorpamplona/amethyst)
+- [Snort social](https://snort.social/)
 
 ### SDR
 - [GNU Radio](https://www.gnuradio.org/)
