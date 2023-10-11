@@ -78,6 +78,7 @@
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [Portmaster](https://github.com/Safing/portmaster)
 - [Unchecky](https://unchecky.com/)
+- [BiniSoft](https://www.binisoft.org/)
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
 - [WPD](https://wpd.app/)
 - [DoNotSpy11](https://pxc-coding.com/donotspy11/)
