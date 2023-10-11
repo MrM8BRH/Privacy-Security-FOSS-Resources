@@ -70,6 +70,7 @@
 
 #### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
+- [DNS Privacy Project](https://dnsprivacy.org/)
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
 
