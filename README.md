@@ -9,6 +9,10 @@
 - [StopNCII](https://stopncii.org/)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 - [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
+- [Reset The Net](https://pack.resetthenet.org/)
+- [Guardian Project](https://guardianproject.info/)
+- [Ethics in Apps](https://www.ethicsinapps.eu/)
+- [Clean Insights](https://cleaninsights.org/)
 - [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
 - [Techlore - Resources](https://www.techlore.tech/resources)
 - [Techlore - VPN](https://www.techlore.tech/vpn)
@@ -53,6 +57,15 @@
 - [The Tor Project Blog](https://blog.torproject.org/)
 - [Dark Reading - Privacy](https://www.darkreading.com/privacy)
 - [How to Clear the Cache and Cookies in Your Web Browser](https://its.uiowa.edu/support/article/719)
+
+#### YouTube
+- [DEF CON 22 - Dr. Philip Polstra - Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM)
+- [60 Minutes Australia: Bugged, Tracked, Hacked (2015)](https://www.youtube.com/watch?v=1oA0O01SQUE)
+- [Phone Hackers: Britain's Secret Surveillance](https://www.youtube.com/watch?v=rzBWoVh4qhk)
+- [The Age of Surveillance Capitalism Explained](https://www.youtube.com/watch?v=xFy41HbYbg4)
+- [Submarine Cables and the Rise of Mass Surveillance](https://www.youtube.com/watch?v=2P3P5OkGt8Q)
+- [How to Hack a Car: Phreaked Out (Episode 2)](https://www.youtube.com/watch?v=3jstaBeXgAs)
+- [The Spy in Your Phone | Al Jazeera World](https://www.youtube.com/watch?v=lfOgm1IcBd0)
 
 #### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
@@ -106,8 +119,21 @@
 - [Replicant](https://www.replicant.us/)
 - [postmarketOS](https://postmarketos.org/)
 - [PureOS](https://www.pureos.net/)
+- [Copperhead OS](https://copperhead.co/android/)
+- [AOKP (Android Open Kang Project)](https://aokp.co/)
+- [AICP (Android Ice Cold Project)](https://aicp-rom.com/)
 - [Atlas OS](https://atlasos.net/)
 - [Revi](https://www.revi.cc/)
+
+#### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools
+- [Manyverse](https://www.manyver.se/)
+- [Briar Project](https://briarproject.org/)
+- [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer)
+- [Android IMSI Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+- [Jammer Detector](https://play.google.com/store/apps/details?id=com.microcadsystems.serge.jammerdetector)
+- [SnoopSnitch](https://f-droid.org/packages/de.srlabs.snoopsnitch/)
+- [AirGuard](https://github.com/seemoo-lab/AirGuard)
+- [AirGuard iOS](https://github.com/seemoo-lab/AirGuard-iOS)
 
 #### File Encryption Software
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
@@ -212,6 +238,9 @@
 - [Snort social](https://snort.social/)
 
 ### SDR
+- [GSM Map](https://gsmmap.org/#!/)
+- [Nexmon](https://github.com/seemoo-lab/nexmon)
+- [OpenHaystack](https://github.com/seemoo-lab/openhaystack)
 - [GNU Radio](https://www.gnuradio.org/)
 - [rtl-sdr Wiki](https://osmocom.org/projects/rtl-sdr/wiki)
 - [Gqrx](https://gqrx.dk/)
@@ -237,7 +266,6 @@
 - [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
 
 ### Android Apps
-- [Android IMSI Catcher Detector Recommendations](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 - [F-Droid](https://f-droid.org/)
 - [Aurora Store](https://auroraoss.com/)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
@@ -265,6 +293,7 @@
 ### Mapping and Navigation
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [GSM Map](https://gsmmap.org/#!/)
 - [OsmAnd](https://osmand.net/)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [SatelliteMap](https://satellitemap.space/)
