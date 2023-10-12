@@ -62,6 +62,7 @@
 - [DEF CON 22 - Dr. Philip Polstra - Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM)
 - [60 Minutes Australia: Bugged, Tracked, Hacked (2015)](https://www.youtube.com/watch?v=1oA0O01SQUE)
 - [Phone Hackers: Britain's Secret Surveillance](https://www.youtube.com/watch?v=rzBWoVh4qhk)
+- [Edward Snowden on Pegasus spyware: 'This is an industry that should not exist'](https://www.youtube.com/watch?v=I5WjTTi67BE)
 - [The Age of Surveillance Capitalism Explained](https://www.youtube.com/watch?v=xFy41HbYbg4)
 - [Submarine Cables and the Rise of Mass Surveillance](https://www.youtube.com/watch?v=2P3P5OkGt8Q)
 - [How to Hack a Car: Phreaked Out (Episode 2)](https://www.youtube.com/watch?v=3jstaBeXgAs)
