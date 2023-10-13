@@ -42,10 +42,13 @@
 
 ### Security
 - [Dangerzone](https://dangerzone.rocks/)
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Am I Breached](https://www.amibreached.com/)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 - [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
+- [Let's Encrypt](https://letsencrypt.org/)
 
 #### Edward Snowden
 - [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
@@ -170,6 +173,7 @@
 #### File Encryption Software
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
 - [GNU Privacy Guard (GnuPG)](https://gnupg.org/)
+- [PGPTool](https://pgptool.github.io/)
 - [7-Zip](https://7-zip.org/)
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 - [Cryptomator](https://github.com/cryptomator)
@@ -248,9 +252,11 @@
 - [LibreTranslate](https://libretranslate.com/)
 - [AltStore](https://altstore.io/)
 - [Trilium](https://github.com/zadam/trilium)
+- [Markmap](https://markmap.js.org/)
 
 ### Programming
 - [Free for Developers](https://free-for.dev/#/)
+- [Carbon](https://carbon.vercel.app/)
 - [Transform Tools](https://transform.tools/)
 - [Wangchujiang's Developer Reference](https://wangchujiang.com/reference/index.html)
 - [Python for Security](https://github.com/CyberSecurityUP/Python-for-Security)
