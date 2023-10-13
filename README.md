@@ -10,22 +10,19 @@
 - [Anonymous Planet Links](https://anonymousplanet.org/links.html)
 - [Libreboot FAQ (Intel)](https://libreboot.org/faq.html#intel)
 - [Libreboot FAQ (AMD)](https://libreboot.org/faq.html#amd)
-- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-- [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 - [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
 - [Reset The Net](https://pack.resetthenet.org/)
 - [Guardian Project](https://guardianproject.info/)
 - [Ethics in Apps](https://www.ethicsinapps.eu/)
 - [Clean Insights](https://cleaninsights.org/)
 - [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
-- [Phishing](https://www.phishing.org/)
 - [Telegram Security Best Practices](https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM)
 - [Telegram Limits](https://limits.tginfo.me/en)
 - [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
 
 #### Empowering Digital Privacy: Tools and Guides
 - [Prism Break](https://prism-break.org/en/)
-- [Dangerzone](https://dangerzone.rocks/)
+- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [Privacy Tools](https://www.privacytools.io/)
@@ -39,11 +36,16 @@
 - [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
 - [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
 - [European Alternatives](https://european-alternatives.eu/categories)
-- [Security](https://www.security.org/)
 - [Exif Cleaner](https://exifcleaner.com/)
 - [NoSystemd](https://nosystemd.org/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 
+### Security
+- [Dangerzone](https://dangerzone.rocks/)
+- [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
+- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Security](https://www.security.org/)
+- [Phishing](https://www.phishing.org/)
 
 #### Edward Snowden
 - [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
@@ -186,6 +188,7 @@
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- [AdNauseam on Mozilla Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/)
 - [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 - [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
@@ -239,27 +242,37 @@
 - [Open Source Mac OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Public APIs](https://github.com/public-apis/public-apis)
-- [Voicemod](https://www.voicemod.net/)
 - [Wiki](https://github.com/requarks/wiki)
 - [Kolibri (Read the Docs)](https://readthedocs.org/projects/kolibri/)
 - [YunoHost](https://yunohost.org/#/)
+- [LibreTranslate](https://libretranslate.com/)
+- [AltStore](https://altstore.io/)
+- [Trilium](https://github.com/zadam/trilium)
+
+### Programming
+- [Free for Developers](https://free-for.dev/#/)
+- [Transform Tools](https://transform.tools/)
+- [Wangchujiang's Developer Reference](https://wangchujiang.com/reference/index.html)
+- [Python for Security](https://github.com/CyberSecurityUP/Python-for-Security)
+- [Learn Programo - C Programs](https://learnprogramo.com/category/c-programs/)
+- [Developer Roadmap](https://roadmap.sh/)
+- [IT & Cyber Security Start Page](https://start.me/p/KMqznE/it-cyber-security)
+
+### Server Platforms
 - [FreePBX](https://www.freepbx.org/)
 - [FreedomBox](https://freedombox.org/download/)
 - [Ignite Realtime](https://www.igniterealtime.org/downloads/)
 - [Open Hospital](https://www.open-hospital.org/)
+- [LinOTP](https://www.linotp.org/)
+- 
+### Design Toolkit
+- [CSS](https://css.gg/)
+- [Iconduck](https://iconduck.com/)
+
+### Business Tools
 - [Odoo](https://www.odoo.com/)
 - [Manager](https://www.manager.io/)
 - [Monica](https://github.com/monicahq/monica)
-- [HashiCorp](https://www.hashicorp.com/)
-- [Snyk](https://snyk.io/)
-- [Open Tofu](https://opentofu.org/)
-- [LinOTP](https://www.linotp.org/)
-- [Iconduck](https://iconduck.com/)
-- [Foss Torrents](https://fosstorrents.com/)
-- [LibreTranslate](https://libretranslate.com/)
-- [AltStore](https://altstore.io/)
-- [Trilium](https://github.com/zadam/trilium)
-- [CSS](https://css.gg/)
 
 ### Nostr Apps
 - [Nostrapps](https://www.nostrapps.com/)
@@ -269,6 +282,7 @@
 - [Snort social](https://snort.social/)
 
 ### SDR
+- [Traccar](https://www.traccar.org/)
 - [GSM Map](https://gsmmap.org/#!/)
 - [Nexmon](https://github.com/seemoo-lab/nexmon)
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack)
@@ -296,6 +310,8 @@
 - [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
 
 ### Android Apps
+- [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
+- [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
 - [F-Droid](https://f-droid.org/)
 - [Aurora Store](https://auroraoss.com/)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
