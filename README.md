@@ -259,6 +259,9 @@
 - [Markmap](https://markmap.js.org/)
 
 ### Programming
+- [FindDev Tools](https://finddev.tools/)
+- [53 SEO Tools](https://www.53seotools.com/)
+- [Uiverse](https://uiverse.io/)
 - [Free for Developers](https://free-for.dev/#/)
 - [Carbon](https://carbon.vercel.app/)
 - [Transform Tools](https://transform.tools/)
@@ -267,6 +270,12 @@
 - [Learn Programo - C Programs](https://learnprogramo.com/category/c-programs/)
 - [Developer Roadmap](https://roadmap.sh/)
 - [IT & Cyber Security Start Page](https://start.me/p/KMqznE/it-cyber-security)
+
+### Optimizing CSS Tools
+- [PurgeCSS](https://purgecss.com/)
+- [UnCSS Online](https://uncss-online.com/)
+- [cssnano](https://cssnano.co/)
+- [Stylelint](https://stylelint.io/)
 
 ### Server Platforms
 - [FreePBX](https://www.freepbx.org/)
