@@ -42,13 +42,16 @@
 
 ### Security
 - [Dangerzone](https://dangerzone.rocks/)
-- [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Am I Breached](https://www.amibreached.com/)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 - [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
 - [Let's Encrypt](https://letsencrypt.org/)
+
+### Security Checkers and Breach Monitors
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Am I Breached](https://www.amibreached.com/)
+- [Firefox Monitor](https://monitor.firefox.com/)
 
 #### Edward Snowden
 - [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
@@ -61,6 +64,7 @@
 - [SecureDrop](https://securedrop.org/)
 - [WikiLeaks](https://wikileaks.org/)
 - [Cryptome](https://cryptome.org/)
+- [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
 - [GlobalLeaks](https://www.globaleaks.org/)
 
 #### Blogs/Articles Resources:
@@ -270,7 +274,18 @@
 - [Ignite Realtime](https://www.igniterealtime.org/downloads/)
 - [Open Hospital](https://www.open-hospital.org/)
 - [LinOTP](https://www.linotp.org/)
-- 
+
+### Virtualization and Containerization
+- [Proxmox](https://www.proxmox.com/en/)
+- [VirtualBox](https://www.virtualbox.org/)
+- [Docker](https://www.docker.com/)
+- [Slim Toolkit](https://slimtoolkit.org/)
+- [Linux Containers](https://linuxcontainers.org/)
+- [Linux KVM](https://www.linux-kvm.org/page/Main_Page)
+- [Podman](https://podman.io/)
+- [Vagrant](https://www.vagrantup.com/)
+- [XCP-ng](https://xcp-ng.org/)
+
 ### Design Toolkit
 - [CSS](https://css.gg/)
 - [Iconduck](https://iconduck.com/)
