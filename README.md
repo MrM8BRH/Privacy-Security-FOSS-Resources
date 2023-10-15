@@ -372,6 +372,7 @@
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
 - [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
 - [F-Droid](https://f-droid.org/)
+- [Scrambled Exif on F-Droid](https://cloudflare.f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - [Aurora Store](https://auroraoss.com/)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [Bitwarden Mobile](https://github.com/bitwarden/mobile)
