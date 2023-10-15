@@ -22,17 +22,17 @@
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 
 #### Books
-- ["No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State" by Glenn Greenwald](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
-- ["Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World" by Bruce Schneier](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
-- ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
-- ["Cypherpunks: Freedom and the Future of the Internet" by Julian Assange, Jacob Appelbaum, Andy Müller-Maguhn, and Jérémie Zimmermann"](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
-- "[Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)"
-- "[Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)"
-- "[Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)"
-- "[We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)"
-- "[The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)"
-- "[Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)"
-- "[Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)"
+- [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
+- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
+- [Cypherpunks: Freedom and the Future of the Internet](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
+- [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
+- [Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)
+- [Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)
+- [We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)
+- [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)
+- [Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)
 
 #### Documentaries and Films
 - ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
