@@ -40,7 +40,7 @@
 - [NoSystemd](https://nosystemd.org/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 
-### Security
+#### Security
 - [Dangerzone](https://dangerzone.rocks/)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -48,7 +48,7 @@
 - [Phishing](https://www.phishing.org/)
 - [Let's Encrypt](https://letsencrypt.org/)
 
-### Security Checkers and Breach Monitors
+#### Security Checkers and Breach Monitors
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Am I Breached](https://www.amibreached.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
