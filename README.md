@@ -89,6 +89,8 @@
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Prism Break](https://prism-break.org/en/)
+- [Exif Cleaner](https://exifcleaner.com/)
+- [OpenStego](https://www.openstego.com/)
 - [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
@@ -103,7 +105,6 @@
 - [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
 - [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
 - [European Alternatives](https://european-alternatives.eu/categories)
-- [Exif Cleaner](https://exifcleaner.com/)
 - [NoSystemd](https://nosystemd.org/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 
