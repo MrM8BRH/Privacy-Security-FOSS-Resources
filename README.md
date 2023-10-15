@@ -19,61 +19,41 @@
 - [Telegram Security Best Practices](https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM)
 - [Telegram Limits](https://limits.tginfo.me/en)
 - [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
-
-#### Empowering Digital Privacy: Tools and Guides
-- [Prism Break](https://prism-break.org/en/)
-- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
-- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
-- [Secure Messaging Apps](https://www.securemessagingapps.com/)
-- [Privacy Tools](https://www.privacytools.io/)
-- [PrivacyTests](https://privacytests.org/)
-- [Switching Software](https://switching.software/)
-- [Two Factor Auth Directory](https://2fa.directory/int/)
-- [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
-- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
-- [Dig Deeper](https://digdeeper.neocities.org/)
-- [Spyware](https://spyware.neocities.org/)
-- [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
-- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
-- [European Alternatives](https://european-alternatives.eu/categories)
-- [Exif Cleaner](https://exifcleaner.com/)
-- [NoSystemd](https://nosystemd.org/)
-- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
-
-#### Security
-- [Dangerzone](https://dangerzone.rocks/)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
-- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-- [Security](https://www.security.org/)
-- [Phishing](https://www.phishing.org/)
-- [Let's Encrypt](https://letsencrypt.org/)
 
-#### Security Checkers and Breach Monitors
-- [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Am I Breached](https://www.amibreached.com/)
-- [Firefox Monitor](https://monitor.firefox.com/)
+#### Books
+- ["No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State" by Glenn Greenwald](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
+- ["Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World" by Bruce Schneier](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+- ["The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power" by Shoshana Zuboff](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
+- ["Cypherpunks: Freedom and the Future of the Internet" by Julian Assange, Jacob Appelbaum, Andy Müller-Maguhn, and Jérémie Zimmermann"](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
+- "[Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)"
+- "[Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)"
+- "[Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)"
+- "[We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)"
+- "[The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)"
+- "[Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)"
+- "[Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)"
 
-#### Edward Snowden
-- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
-- [Edward Snowden's Twitter](https://twitter.com/Snowden)
-- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
-- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
-- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+#### Documentaries and Films
+- ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
+- ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
+- ["Snowden" (2016)](https://www.imdb.com/title/tt3774114/)
+- ["The Great Hack" (2019)](https://www.imdb.com/title/tt9358204/)
 
-#### Transparency and Whistleblower Websites/Platforms
-- [SecureDrop](https://securedrop.org/)
-- [WikiLeaks](https://wikileaks.org/)
-- [Cryptome](https://cryptome.org/)
-- [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
-- [GlobalLeaks](https://www.globaleaks.org/)
+#### Academic Journals and Research Papers
+- [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society)
+- [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
+- [Journal of Privacy and Confidentiality](https://journalprivacyconfidentiality.org/)
 
 #### Blogs/Articles Resources:
-- [EFF Surveillance Self-Defense](https://ssd.eff.org/)
-- [EFF Surveillance Self-Defense - Mobile Phones](https://ssd.eff.org/module/problem-mobile-phones)
+- [Center for Democracy & Technology (CDT)](https://cdt.org/)
+- [American Civil Liberties Union (ACLU) - Privacy & Technology](https://www.aclu.org/issues/privacy-technology)
+- [Digital Privacy News](https://digitalprivacy.news/)
+- [The Intercept - Privacy](https://theintercept.com/privacy-matters/)
+- [The Intercept - A Secret Catalogue of Government Gear for Spying on Your Cellphone](https://theintercept.com/2015/12/16/a-secret-catalogue-of-government-gear-for-spying-on-your-cellphone/)
 - [Seth for Privacy](https://sethforprivacy.com/)
 - [Electrospaces](https://www.electrospaces.net/)
 - [Bugged Planet](https://buggedplanet.info/index.php?title=Main_Page)
-- [The Intercept - A Secret Catalogue of Government Gear for Spying on Your Cellphone](https://theintercept.com/2015/12/16/a-secret-catalogue-of-government-gear-for-spying-on-your-cellphone/)
 - [Bruce Schneier on Facial Recognition, Surveillance, Tracking](https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html)
 - [F-Droid Announcement: Tracking the Trackers](https://f-droid.org/en/2020/01/16/tracking-the-trackers.html)
 - [Kill Your Phone](https://killyourphone.com/)
@@ -105,6 +85,28 @@
 - [How to Hack a Car: Phreaked Out (Episode 2)](https://www.youtube.com/watch?v=3jstaBeXgAs)
 - [The Spy in Your Phone | Al Jazeera World](https://www.youtube.com/watch?v=lfOgm1IcBd0)
 
+#### Empowering Digital Privacy: Tools and Guides
+- [Surveillance Self-Defense](https://ssd.eff.org/)
+- [Freedom of the Press Foundation](https://freedom.press/)
+- [Prism Break](https://prism-break.org/en/)
+- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
+- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [Secure Messaging Apps](https://www.securemessagingapps.com/)
+- [Privacy Tools](https://www.privacytools.io/)
+- [PrivacyTests](https://privacytests.org/)
+- [Switching Software](https://switching.software/)
+- [Two Factor Auth Directory](https://2fa.directory/int/)
+- [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
+- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
+- [Dig Deeper](https://digdeeper.neocities.org/)
+- [Spyware](https://spyware.neocities.org/)
+- [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
+- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
+- [European Alternatives](https://european-alternatives.eu/categories)
+- [Exif Cleaner](https://exifcleaner.com/)
+- [NoSystemd](https://nosystemd.org/)
+- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
+
 #### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
 - [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
@@ -118,6 +120,32 @@
 - [Malicious Website Test](http://maliciouswebsitetest.com/)
 - [EICAR - Anti-Malware Test File](https://www.eicar.org/)
 - [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
+
+#### Security
+- [Dangerzone](https://dangerzone.rocks/)
+- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Security](https://www.security.org/)
+- [Phishing](https://www.phishing.org/)
+- [Let's Encrypt](https://letsencrypt.org/)
+
+#### Security Checkers and Breach Monitors
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Am I Breached](https://www.amibreached.com/)
+- [Firefox Monitor](https://monitor.firefox.com/)
+
+#### Edward Snowden
+- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden's Twitter](https://twitter.com/Snowden)
+- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
+- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+
+#### Transparency and Whistleblower Websites/Platforms
+- [SecureDrop](https://securedrop.org/)
+- [WikiLeaks](https://wikileaks.org/)
+- [Cryptome](https://cryptome.org/)
+- [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
+- [GlobalLeaks](https://www.globaleaks.org/)
 
 #### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
