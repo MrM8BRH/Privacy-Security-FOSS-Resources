@@ -195,6 +195,8 @@
 #### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools
 - [Manyverse](https://www.manyver.se/)
 - [Briar Project](https://briarproject.org/)
+- [Meshenger](https://cloudflare.f-droid.org/en/packages/d.d.meshenger/)
+- [Serval Mesh](https://cloudflare.f-droid.org/en/packages/org.servalproject/)
 - [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer)
 - [Android IMSI Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 - [Jammer Detector](https://play.google.com/store/apps/details?id=com.microcadsystems.serge.jammerdetector)
