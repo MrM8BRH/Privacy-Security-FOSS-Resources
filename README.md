@@ -273,6 +273,8 @@
 - [OSS Insight](https://ossinsight.io/)
 - [Open Source Alternative](https://www.opensourcealternative.to/)
 - [Deps.dev](https://deps.dev/)
+- [Open Source Initiative](https://opensource.org/)
+- [Open Source Directory](https://opensource.net/)
 - [Hugging Face](https://huggingface.co/)
 - [Sindre Sorhus - Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
