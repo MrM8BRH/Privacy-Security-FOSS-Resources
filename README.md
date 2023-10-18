@@ -292,6 +292,7 @@
 - [Markmap](https://markmap.js.org/)
 
 ### Programming
+- [The Algorithms](https://the-algorithms.com/)
 - [FindDev Tools](https://finddev.tools/)
 - [53 SEO Tools](https://www.53seotools.com/)
 - [Uiverse](https://uiverse.io/)
