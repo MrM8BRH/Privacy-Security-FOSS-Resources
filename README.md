@@ -128,6 +128,7 @@
 - [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
 - [Let's Encrypt](https://letsencrypt.org/)
+- [gHacks](https://www.ghacks.net/)
 
 #### Security Checkers and Breach Monitors
 - [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -157,6 +158,8 @@
 #### Windows
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [Portmaster](https://github.com/Safing/portmaster)
+- [Windows Firewall Control](https://www.binisoft.org/wfc)
+- [USB Firewall](https://www.binisoft.org/usbc)
 - [Unchecky](https://unchecky.com/)
 - [BiniSoft](https://www.binisoft.org/)
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
@@ -269,9 +272,11 @@
 - <a href="https://www.youtube.com/watch?v=25P5y1SZ5bM" dir="ltr">لعبة الاستخبارات الصينية.. كيف اخترقت التكنولوجيا الغربية وسرقتها؟</a>
 
 ## Free and Open-Source Software (FOSS) Resources:
-- [Constant Robotics](https://www.constantrobotics.com/)
+- [It's FOSS](https://itsfoss.com/)
+- [It's FOSS News](https://news.itsfoss.com/)
 - [OSS Insight](https://ossinsight.io/)
 - [Open Source Alternative](https://www.opensourcealternative.to/)
+- [Constant Robotics](https://www.constantrobotics.com/)
 - [Deps.dev](https://deps.dev/)
 - [Open Source Initiative](https://opensource.org/)
 - [Open Source Directory](https://opensource.net/)
