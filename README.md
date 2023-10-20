@@ -5,6 +5,7 @@
 
 ## Privacy & Security
 ### English Resources:
+- [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 - [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [StopNCII](https://stopncii.org/)
 - [Anonymous Planet Links](https://anonymousplanet.org/links.html)
