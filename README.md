@@ -97,6 +97,8 @@
 #### Empowering Digital Privacy: Tools and Guides
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Freedom of the Press Foundation](https://freedom.press/)
+- [Watch Your Hack](https://watchyourhack.com/)
+- [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
 - [Prism Break](https://prism-break.org/en/)
 - [Exif Cleaner](https://exifcleaner.com/)
 - [OpenStego](https://www.openstego.com/)
