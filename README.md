@@ -118,6 +118,7 @@
 - [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
+- [eylenburg.github.io](https://eylenburg.github.io/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [PrivacyTests](https://privacytests.org/)
 - [Switching Software](https://switching.software/)
