@@ -216,7 +216,7 @@
 - [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
 - [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
 
-#### Privacy-Centric Operating Systems
+#### Operating Systems
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
