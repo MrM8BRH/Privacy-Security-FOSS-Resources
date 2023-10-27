@@ -250,6 +250,24 @@
 - [Czkawka](https://github.com/qarmin/czkawka)
 - [Dism Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)
 
+#### Blocklist Collection
+- [FilterLists](https://filterlists.com/)
+- [EasyList](https://easylist.to/)
+- [LightSwitch05 Hosts](https://github.com/lightswitch05/hosts)
+- [StevenBlack Hosts](https://github.com/StevenBlack/hosts)
+- [SomeoneWhoCares Hosts](https://someonewhocares.org/hosts/)
+- [AdGuard SDNS Filter](https://github.com/AdguardTeam/AdGuardSDNSFilter)
+- [Winhelp2002 MVPS Hosts](https://winhelp2002.mvps.org/hosts.htm)
+- [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
+- [OISD](https://oisd.nl/)
+- [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+- [Firehol IP Lists](https://iplists.firehol.org/)
+- [Firebog](https://firebog.net/)
+- [Phishing Army](https://phishing.army/)
+- [URLhaus Hostfile](https://urlhaus.abuse.ch/downloads/hostfile/)
+- [Zeltser Malicious IP Blocklists](https://zeltser.com/malicious-ip-blocklists/)
+- [NextDNS Metadata](https://github.com/nextdns/metadata)
+
 #### Privacy and Security Extensions for Firefox
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -402,6 +420,9 @@
 - [Universal Radio Hacker (URH) by jopohl](https://github.com/jopohl/urh)
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 - [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
+
+### IOS Apps
+- [Lockdown Privacy](https://lockdownprivacy.com/)
 
 ### Android Apps
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
