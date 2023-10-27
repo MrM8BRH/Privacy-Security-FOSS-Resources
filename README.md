@@ -114,7 +114,7 @@
 - [How to Hack a Car: Phreaked Out (Episode 2)](https://www.youtube.com/watch?v=3jstaBeXgAs)
 - [The Spy in Your Phone | Al Jazeera World](https://www.youtube.com/watch?v=lfOgm1IcBd0)
 
-#### Empowering Digital Privacy: Tools and Guides
+#### Empowering Digital Privacy/Security: Tools and Guides
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Watch Your Hack](https://watchyourhack.com/)
@@ -122,6 +122,12 @@
 - [Prism Break](https://prism-break.org/en/)
 - [Exif Cleaner](https://exifcleaner.com/)
 - [OpenStego](https://www.openstego.com/)
+- [Dangerzone](https://dangerzone.rocks/)
+- [Traccar](https://www.traccar.org/)
+- [Security](https://www.security.org/)
+- [Phishing](https://www.phishing.org/)
+- [Let's Encrypt](https://letsencrypt.org/)
+- [gHacks](https://www.ghacks.net/)
 - [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
@@ -139,6 +145,7 @@
 - [European Alternatives](https://european-alternatives.eu/categories)
 - [NoSystemd](https://nosystemd.org/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
+- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 #### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
@@ -160,14 +167,6 @@
 - [Cryptome](https://cryptome.org/)
 - [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
 - [GlobalLeaks](https://www.globaleaks.org/)
-
-#### Security
-- [Dangerzone](https://dangerzone.rocks/)
-- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-- [Security](https://www.security.org/)
-- [Phishing](https://www.phishing.org/)
-- [Let's Encrypt](https://letsencrypt.org/)
-- [gHacks](https://www.ghacks.net/)
 
 #### Security Checkers and Breach Monitors
 - [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -351,13 +350,19 @@
 - [Open Source Mac OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Public APIs](https://github.com/public-apis/public-apis)
-- [Wiki](https://github.com/requarks/wiki)
-- [Kolibri (Read the Docs)](https://readthedocs.org/projects/kolibri/)
 - [YunoHost](https://yunohost.org/#/)
 - [LibreTranslate](https://libretranslate.com/)
-- [AltStore](https://altstore.io/)
 - [Trilium](https://github.com/zadam/trilium)
 - [Markmap](https://markmap.js.org/)
+
+### Documentation Generators
+- [JSWiki](https://js.wiki/)
+- [GitBook](https://www.gitbook.com/)
+- [BookStack](https://www.bookstackapp.com/)
+- [Foam](https://foambubble.github.io/foam/)
+- [DokuWiki](https://www.dokuwiki.org/dokuwiki)
+- [Read the Docs](https://about.readthedocs.com/)
+- [mdBook](https://rust-lang.github.io/mdBook/)
 
 ### Programming
 - [The Algorithms](https://the-algorithms.com/)
@@ -414,7 +419,6 @@
 - [Snort social](https://snort.social/)
 
 ### SDR
-- [Traccar](https://www.traccar.org/)
 - [GSM Map](https://gsmmap.org/#!/)
 - [Nexmon](https://github.com/seemoo-lab/nexmon)
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack)
@@ -437,13 +441,14 @@
 - [SDR Software at Passion Radio](https://www.passion-radio.com/store/sdr-software-10)
 - [Skywave Linux](https://skywavelinux.com/)
 - [OpenBTS at Ettus Knowledge Base](https://kb.ettus.com/OpenBTS)
-- [Universal Radio Hacker (URH) by jopohl](https://github.com/jopohl/urh)
+- [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
-- [Scapy Radio by BastilleResearch](https://github.com/BastilleResearch/scapy-radio)
+- [Scapy Radio](https://github.com/BastilleResearch/scapy-radio)
 
 ### IOS Apps
 - [Lockdown Privacy](https://lockdownprivacy.com/)
 - [Raivo OTP](https://raivo-otp.com/)
+- [AltStore](https://altstore.io/)
 
 ### Android Apps
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
