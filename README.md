@@ -66,6 +66,13 @@
 - [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
 - [Journal of Privacy and Confidentiality](https://journalprivacyconfidentiality.org/)
 
+#### Edward Snowden
+- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden's Twitter](https://twitter.com/Snowden)
+- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
+- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+
 #### Blogs/Articles Resources:
 - [Center for Democracy & Technology (CDT)](https://cdt.org/)
 - [American Civil Liberties Union (ACLU) - Privacy & Technology](https://www.aclu.org/issues/privacy-technology)
@@ -147,6 +154,13 @@
 - [EICAR - Anti-Malware Test File](https://www.eicar.org/)
 - [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
 
+#### Transparency and Whistleblower Websites/Platforms
+- [SecureDrop](https://securedrop.org/)
+- [WikiLeaks](https://wikileaks.org/)
+- [Cryptome](https://cryptome.org/)
+- [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
+- [GlobalLeaks](https://www.globaleaks.org/)
+
 #### Security
 - [Dangerzone](https://dangerzone.rocks/)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -160,25 +174,31 @@
 - [Am I Breached](https://www.amibreached.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
 
-#### Edward Snowden
-- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
-- [Edward Snowden's Twitter](https://twitter.com/Snowden)
-- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
-- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
-- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
-
-#### Transparency and Whistleblower Websites/Platforms
-- [SecureDrop](https://securedrop.org/)
-- [WikiLeaks](https://wikileaks.org/)
-- [Cryptome](https://cryptome.org/)
-- [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
-- [GlobalLeaks](https://www.globaleaks.org/)
-
 #### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
 - [DNS Privacy Project](https://dnsprivacy.org/)
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
+
+#### Comprehensive Malware Analysis and Detection Tools
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [VirusScan Jotti](https://virusscan.jotti.org/)
+- [Any Run](https://any.run/)
+- [AntiScan](https://antiscan.me/)
+- [MetaDefender](https://metadefender.opswat.com/)
+- [Joe Sandbox](https://www.joesandbox.com/)
+- [urlscan](https://urlscan.io/)
+- [Kleenscan](https://kleenscan.com/index)
+- [PolySwarm](https://polyswarm.network/)
+- [Browserling](https://www.browserling.com/)
+- [Wannabrowser](https://www.wannabrowser.net/)
+- [GMER](http://www.gmer.net/)
+- [chkrootkit](https://www.chkrootkit.org/)
+- [ClamAV](https://www.clamav.net/)
+- [Winitor](https://www.winitor.com/)
+- [RKill](https://www.bleepingcomputer.com/download/rkill/)
+- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
 
 #### Windows
 - [Hardentools](https://github.com/hardentools/hardentools)
