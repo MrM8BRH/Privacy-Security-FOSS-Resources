@@ -423,6 +423,7 @@
 
 ### IOS Apps
 - [Lockdown Privacy](https://lockdownprivacy.com/)
+- [Raivo OTP](https://raivo-otp.com/)
 
 ### Android Apps
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
