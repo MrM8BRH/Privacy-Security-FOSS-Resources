@@ -201,6 +201,7 @@
 
 #### Windows
 - [Hardentools](https://github.com/hardentools/hardentools)
+- [Unchecky](https://unchecky.com/)
 - [Portmaster](https://github.com/Safing/portmaster)
 - [Windows Firewall Control](https://www.binisoft.org/wfc)
 - [USB Firewall](https://www.binisoft.org/usbc)
