@@ -133,8 +133,9 @@
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [eylenburg.github.io](https://eylenburg.github.io/)
-- [Privacy Tools](https://www.privacytools.io/)
-- [PrivacyTests](https://privacytests.org/)
+- [PrivacyTools.guide](https://privacytools.guide)
+- [PrivacyTools.io](https://www.privacytools.io/)
+- [PrivacyTests.org](https://privacytests.org/)
 - [Switching Software](https://switching.software/)
 - [Two Factor Auth Directory](https://2fa.directory/int/)
 - [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
@@ -250,6 +251,7 @@
 
 #### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools
 - [qaul – قول](https://qaul.net/)
+- [Simplex Chat](https://simplex.chat/)
 - [Bridgefy](https://bridgefy.me/)
 - [Jami](https://jami.net/#)
 - [Tox](https://tox.chat/)
