@@ -174,6 +174,13 @@
 - [Am I Breached](https://www.amibreached.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
 
+#### Useful Tools for Image Verification and Analysis
+- [TinEye](https://tineye.com/)
+- [Forensic Magnifier by 29a](https://29a.ch/photo-forensics/#forensic-magnifier)
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Open Minds - EXIF Sample](https://openminds.exopaedia.org/EXIF%20samples/exif%2069667671.egLsAwK4.Staroselciweb64_6625.htm)
+
 #### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
 - [DNS Privacy Project](https://dnsprivacy.org/)
@@ -242,6 +249,11 @@
 - [Revi](https://www.revi.cc/)
 
 #### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools
+- [qaul – قول](https://qaul.net/)
+- [Bridgefy](https://bridgefy.me/)
+- [Jami](https://jami.net/#)
+- [Tox](https://tox.chat/)
+- [RetroShare](https://retroshare.cc/downloads.html)
 - [Manyverse](https://www.manyver.se/)
 - [Briar Project](https://briarproject.org/)
 - [Meshenger](https://cloudflare.f-droid.org/en/packages/d.d.meshenger/)
@@ -352,6 +364,7 @@
 - [Open Source Mac OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [LocalSend](https://localsend.org/#/)
 - [YunoHost](https://yunohost.org/#/)
 - [LibreTranslate](https://libretranslate.com/)
 - [Trilium](https://github.com/zadam/trilium)
@@ -488,23 +501,22 @@
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [SatelliteMap](https://satellitemap.space/)
 - [Wigle](https://wigle.net/)
-
-### Satellite Imagery and Fire Monitoring
 - [NASA Fire Information for Resource Management System](https://firms.modaps.eosdis.nasa.gov/map/)
-
-### Maritime Tracking
 - [MarineTraffic](https://www.marinetraffic.com)
 - [VesselFinder](https://www.vesselfinder.com)
-
-### Flight Tracking
 - [PlaneFinder](https://planefinder.net)
+- [Satellite Map](https://satellitemap.space/)
+- [US Bank Locations](https://www.usbanklocations.com/)
+- [ADSB Exchange Globe](https://globe.adsbexchange.com/)
+- [RadarBox](https://www.radarbox.com)
+- [FlightRadar24](https://www.flightradar24.com)
+- [FlightAware](https://www.flightaware.com/)
 
 ### Custom Firmware for Routers
 - [OpenWrt](https://openwrt.org/start)
 - [DD-WRT](https://dd-wrt.com/)
 - [AdvancedTomato](https://advancedtomato.com/)
 - [Asuswrt-Merlin](https://www.asuswrt-merlin.net/)
-
 
 ### Use Cases for Home Server
 - **File Storage and Sharing:**
