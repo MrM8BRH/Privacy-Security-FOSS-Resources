@@ -127,7 +127,10 @@
 - [Traccar](https://www.traccar.org/)
 - [Security](https://www.security.org/)
 - [Phishing](https://www.phishing.org/)
+- [WireGuard](https://www.wireguard.com/)
 - [Let's Encrypt](https://letsencrypt.org/)
+- [GPGTools](https://gpgtools.org/)
+- [Gpg4win](https://gpg4win.org/index.html)
 - [gHacks](https://www.ghacks.net/)
 - [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
@@ -162,6 +165,15 @@
 - [Malicious Website Test](http://maliciouswebsitetest.com/)
 - [EICAR - Anti-Malware Test File](https://www.eicar.org/)
 - [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
+
+#### Private Browsers
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
+- [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
+- [Waterfox](https://www.waterfox.net/)
+- [Iridium Browser](https://iridiumbrowser.de/)
+- [Onion Browser](https://onionbrowser.com/)
+- [Bromite](https://www.bromite.org/)
+- [GNUzilla](https://www.gnu.org/software/gnuzilla/)
 
 #### Transparency and Whistleblower Websites/Platforms
 - [SecureDrop](https://securedrop.org/)
@@ -228,6 +240,7 @@
 
 #### Secure Mobile Solutions
 - [X-Cellular](https://x-cellular.com/)
+- [Purism](https://puri.sm/)
 - [Blackphone 2](https://www.encrypted-os.com/encrypted-devices/)
 
 #### Operating Systems
@@ -253,12 +266,14 @@
 - [Atlas OS](https://atlasos.net/)
 - [Revi](https://www.revi.cc/)
 
-#### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools
+#### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms
 - [qaul – قول](https://qaul.net/)
 - [Simplex Chat](https://simplex.chat/)
 - [Bridgefy](https://bridgefy.me/)
 - [Jami](https://jami.net/#)
 - [Tox](https://tox.chat/)
+- [XMPP](https://xmpp.org/)
+- [Keybase](https://keybase.io/)
 - [RetroShare](https://retroshare.cc/downloads.html)
 - [Manyverse](https://www.manyver.se/)
 - [Briar Project](https://briarproject.org/)
@@ -495,6 +510,7 @@
 - [InviZible](https://github.com/Gedsh/InviZible)
 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
+- [OpenKeychain](https://www.openkeychain.org/)
 - [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda)
 - [Collabora Office (Android & iOS)](https://www.collaboraoffice.com/collabora-office-android-ios/)
 - [Hevy](https://www.hevyapp.com/)
