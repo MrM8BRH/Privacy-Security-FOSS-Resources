@@ -381,6 +381,7 @@
 - [It's FOSS News](https://news.itsfoss.com/)
 - [OSS Insight](https://ossinsight.io/)
 - [Open Source Alternative](https://www.opensourcealternative.to/)
+- [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
 - [Constant Robotics](https://www.constantrobotics.com/)
 - [Deps.dev](https://deps.dev/)
 - [Open Source Initiative](https://opensource.org/)
