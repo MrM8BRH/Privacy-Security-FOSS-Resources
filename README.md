@@ -4,8 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/mrm8brh/Privacy-Security-FOSS-Resources/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/mrm8brh/Privacy-Security-FOSS-Resources/issues)
 [![GitHub forks](https://img.shields.io/github/forks/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/mrm8brh/Privacy-Security-FOSS-Resources/forks)
-[![GitHub forks](https://img.shields.io/github/watchers/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/mrm8brh/Privacy-Security-FOSS-Resources/watchers)
-[![GitHub forks](https://img.shields.io/github/license/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources/blob/master/LICENSE)
+[![GitHub watchers](https://img.shields.io/github/watchers/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/mrm8brh/Privacy-Security-FOSS-Resources/watchers)
+[![GitHub license](https://img.shields.io/github/license/mrm8brh/Privacy-Security-FOSS-Resources)](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources/blob/master/LICENSE)
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
   
 </div>
