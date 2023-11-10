@@ -305,6 +305,7 @@
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
 - [Astra Linux OS](https://astralinux.ru/en/software-services/os/)
+- [ravynOS](https://ravynos.com/)
 - [microG](https://microg.org/)
 - [Whonix](https://www.whonix.org/)
 - [Subgraph OS](https://subgraph.com/)
