@@ -461,13 +461,15 @@
 
 ### Programming
 - [The Algorithms](https://the-algorithms.com/)
+- [Developer Tools](https://fmhy.pages.dev/devtools/)
+- [Quick Reference](https://quickref.me/)
 - [FindDev Tools](https://finddev.tools/)
+- [Code Beautify](https://codebeautify.org/)
 - [53 SEO Tools](https://www.53seotools.com/)
 - [Uiverse](https://uiverse.io/)
 - [Free for Developers](https://free-for.dev/#/)
 - [Carbon](https://carbon.vercel.app/)
 - [Transform Tools](https://transform.tools/)
-- [Wangchujiang's Developer Reference](https://wangchujiang.com/reference/index.html)
 - [Python for Security](https://github.com/CyberSecurityUP/Python-for-Security)
 - [Learn Programo - C Programs](https://learnprogramo.com/category/c-programs/)
 - [Developer Roadmap](https://roadmap.sh/)
