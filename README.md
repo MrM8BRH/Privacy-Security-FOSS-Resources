@@ -323,6 +323,7 @@
 - [AICP (Android Ice Cold Project)](https://aicp-rom.com/)
 - [Atlas OS](https://atlasos.net/)
 - [Revi](https://www.revi.cc/)
+- [Android ROM List](https://github.com/musabcel/android_rom_list)
 
 #### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms
 - [qaul – قول](https://qaul.net/)
