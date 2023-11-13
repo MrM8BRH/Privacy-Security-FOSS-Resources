@@ -24,7 +24,7 @@
 | Privacy & Security - (EN) - Edward Snowden        | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#edward-snowden)                      |
 | Privacy & Security - (EN) - Blogs/Articles Resources: | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsarticles-resources)          |
 | Privacy & Security - (EN) - YouTube              | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube)                             |
-| Privacy & Security - (EN) - Empowering Digital Privacy/Security: Tools and Guides | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube)               |
+| Privacy & Security - (EN) - Empowering Digital Privacy/Security: Tools and Guides | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#empowering-digital-privacysecurity-tools-and-guides)               |
 | Privacy & Security - (EN) - Testing Resources:    | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#testing-resources)                 |
 | Privacy & Security - (EN) - Private Browsers      | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#private-browsers)                   |
 | Privacy & Security - (EN) - Transparency and Whistleblower Websites/Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#transparency-and-whistleblower-websitesplatforms) |
@@ -173,6 +173,8 @@
 
 #### Empowering Digital Privacy/Security: Tools and Guides
 - [Surveillance Self-Defense](https://ssd.eff.org/)
+- [Awesome Privacy](https://awesome-privacy.xyz/#/)
+- [The New Oil](https://thenewoil.org/index.html)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Watch Your Hack](https://watchyourhack.com/)
 - [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
