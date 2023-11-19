@@ -213,6 +213,17 @@
 - [NoSystemd](https://nosystemd.org/)
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Privacy-Focused Alternatives to Facebook](https://alternativeto.net/software/facebook/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Instagram](https://alternativeto.net/software/instagram/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to WhatsApp](https://alternativeto.net/software/whatsapp/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to YouTube](https://alternativeto.net/software/youtube/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Gmail](https://alternativeto.net/software/gmail/?feature=privacy-focused%2Cemail-encryption)
+- [Privacy-Focused Alternatives to Google Chrome](https://alternativeto.net/software/google-chrome/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Google Maps](https://alternativeto.net/software/google-maps/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Google Translate](https://alternativeto.net/software/google-translate/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Android Market](https://alternativeto.net/software/android-market/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Microsoft Office Suite](https://alternativeto.net/software/microsoft-office-suite/?feature=privacy-focused&license=opensource)
+
 
 #### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
