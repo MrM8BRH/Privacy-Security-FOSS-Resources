@@ -227,6 +227,8 @@
 #### Testing Resources:
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
 - [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
+- [AdBlock Tester](https://adblock-tester.com/)
+- [CanYouBlockIt](https://canyoublockit.com/)
 - [FiveFilters - Block Ads](https://blockads.fivefilters.org/)
 - [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
 - [Phishing Tackle Quiz](https://phishingtackle.com/phishing-quiz/)
