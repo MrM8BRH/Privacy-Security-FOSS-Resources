@@ -15,52 +15,58 @@
 </div>
 
 # Table of Contents
-
 ## Privacy & Security Resources (EN)
-- [Wikipedia](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#wikipedia)
-- [Books](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#books)
-- [Documentaries and Films](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentaries-and-films)
-- [Academic Journals and Research Papers](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#academic-journals-and-research-papers)
-- [Edward Snowden](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#edward-snowden)
-- [Blogs/Articles Resources](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsarticles-resources)
-- [YouTube](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube)
-- [Empowering Digital Privacy/Security: Tools and Guides](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#empowering-digital-privacysecurity-tools-and-guides)
-- [Testing Resources](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#testing-resources)
-- [Private Browsers](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#private-browsers)
-- [Transparency and Whistleblower Websites/Platforms](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#transparency-and-whistleblower-websitesplatforms)
-- [Security Checkers and Breach Monitors](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#security-checkers-and-breach-monitors)
-- [Useful Tools for Image Verification and Analysis](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#useful-tools-for-image-verification-and-analysis)
-- [Router & DNS](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#router--dns)
-- [Comprehensive Malware Analysis and Detection Tools](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#comprehensive-malware-analysis-and-detection-tools)
-- [Windows](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#windows)
-- [Secure Mobile Solutions](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#secure-mobile-solutions)
-- [Operating Systems](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#operating-systems)
-- [IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#imsi-catcher-detection-and-private-peer-to-peer-communication-tools--secure-communication-platforms)
-- [File Encryption Software](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#file-encryption-software)
-- [Data Privacy and Secure File Handling Tools](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#data-privacy-and-secure-file-handling-tools)
-- [Blocklist Collection](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blocklist-collection)
-- [Privacy and Security Extensions for Firefox](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#privacy-and-security-extensions-for-firefox)
-- [Ransomware Decryption Tools](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ransomware-decryption-tools)
+| Resource Category | Link |
+| --- | --- |
+| Wikipedia | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#wikipedia) |
+| Books | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#books) |
+| Documentaries and Films | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentaries-and-films) |
+| Academic Journals and Research Papers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#academic-journals-and-research-papers) |
+| Edward Snowden | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#edward-snowden) |
+| Blogs/Articles Resources | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsarticles-resources) |
+| YouTube | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube) |
+| Empowering Digital Privacy/Security: Tools and Guides | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#empowering-digital-privacysecurity-tools-and-guides) |
+| Testing Resources | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#testing-resources) |
+| Private Browsers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#private-browsers) |
+| Transparency and Whistleblower Websites/Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#transparency-and-whistleblower-websitesplatforms) |
+| Security Checkers and Breach Monitors | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#security-checkers-and-breach-monitors) |
+| Useful Tools for Image Verification and Analysis | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#useful-tools-for-image-verification-and-analysis) |
+| Router & DNS | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#router--dns) |
+| Comprehensive Malware Analysis and Detection Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#comprehensive-malware-analysis-and-detection-tools) |
+| Windows | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#windows) |
+| Secure Mobile Solutions | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#secure-mobile-solutions) |
+| Operating Systems | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#operating-systems) |
+| IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#imsi-catcher-detection-and-private-peer-to-peer-communication-tools--secure-communication-platforms) |
+| File Encryption Software | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#file-encryption-software) |
+| Data Privacy and Secure File Handling Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#data-privacy-and-secure-file-handling-tools) |
+| Blocklist Collection | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blocklist-collection) |
+| Privacy and Security Extensions for Firefox | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#privacy-and-security-extensions-for-firefox) |
+| Ransomware Decryption Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ransomware-decryption-tools) |
 
 ## Privacy & Security Resources (AR)
-- [Blogs/News/Articles](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsnewsarticles)
-- [YouTube](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube-1)
+| Resource Category | Link |
+| --- | --- |
+| Blogs/News/Articles | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsnewsarticles) |
+| YouTube | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube-1) |
 
 ## FOSS
-- [FOSS](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#free-and-open-source-software-foss-resources)
-- [Documentation Generators](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentation-generators)
-- [Programming](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#programming)
-- [Optimizing CSS Tools](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#optimizing-css-tools)
-- [Server Platforms](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#server-platforms)
-- [Virtualization and Containerization](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#virtualization-and-containerization)
-- [Design Toolkit](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#design-toolkit)
-- [Business Tools](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#business-tools)
-- [Nostr Apps](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#nostr-apps)
-- [IOS Apps](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ios-apps)
-- [Android Apps](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#android-apps)
-- [Mapping and Navigation](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#mapping-and-navigation)
-- [Custom Firmware for Routers](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#custom-firmware-for-routers)
-- [Use Cases for Home Server](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#use-cases-for-home-server)
+| Resource Category | Link |
+| --- | --- |
+| FOSS | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#free-and-open-source-software-foss-resources) |
+| Documentation Generators | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentation-generators) |
+| Programming | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#programming) |
+| Optimizing CSS Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#optimizing-css-tools) |
+| Server Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#server-platforms) |
+| Virtualization and Containerization | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#virtualization-and-containerization) |
+| Design Toolkit | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#design-toolkit) |
+| Business Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#business-tools) |
+| Nostr Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#nostr-apps) |
+| IOS Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ios-apps) |
+| Android Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#android-apps) |
+| Mapping and Navigation | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#mapping-and-navigation) |
+| Custom Firmware for Routers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#custom-firmware-for-routers) |
+| Use Cases for Home Server | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#use-cases-for-home-server) |
+
 
 ## Privacy & Security
 ### English Resources:
