@@ -307,7 +307,6 @@
 - [Portmaster](https://github.com/Safing/portmaster)
 - [Windows Firewall Control](https://www.binisoft.org/wfc)
 - [USB Firewall](https://www.binisoft.org/usbc)
-- [Unchecky](https://unchecky.com/)
 - [BiniSoft](https://www.binisoft.org/)
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
 - [WPD](https://wpd.app/)
@@ -430,6 +429,7 @@
 - [BugsFighter Ransomware](https://www.bugsfighter.com/ransomware/)
 
 ### Arabic Resources:
+
 #### Blogs/News/Articles
 - [SalamaTech](https://salamatech.org/)
 - [SalamaTech Wiki](https://salamatechwiki.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
@@ -438,6 +438,7 @@
 - [Euronews Arabic - Cyber Security](https://arabic.euronews.com/tag/cyber-security)
 - [Zanga Tech](https://zanga.tech/?platform=all)
 - [Arab Sciences - Cyber Terrorism](https://arabsciences.com/2017/11/28/cyber-terror/)
+
 #### YouTube
 - <a href="https://www.youtube.com/playlist?list=PLJyrzEL-wvYJ75QydgsrBuzC944eE8VLT" dir="ltr">ما خفي أعظم</a>
 - <a href="https://www.youtube.com/watch?v=b3NtvEmoKjQ" dir="ltr">أبرز الشركات التقنية الإسرائيلية في مجال التجسس الإلكتروني</a>
