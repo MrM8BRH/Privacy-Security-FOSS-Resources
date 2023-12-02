@@ -189,7 +189,9 @@
 
 #### Empowering Digital Privacy/Security: Tools and Guides
 - [Surveillance Self-Defense](https://ssd.eff.org/)
-- [Awesome Privacy](https://awesome-privacy.xyz/#/)
+- [Awesome Privacy 1](https://awesome-privacy.xyz/#/)
+- [Awesome Privacy 2](https://github.com/pluja/awesome-privacy)
+- [Awesome Privacy 3](https://github.com/Lissy93/awesome-privacy)
 - [The New Oil](https://thenewoil.org/index.html)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Watch Your Hack](https://watchyourhack.com/)
@@ -207,7 +209,6 @@
 - [Gpg4win](https://gpg4win.org/index.html)
 - [gHacks](https://www.ghacks.net/)
 - [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
-- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [eylenburg.github.io](https://eylenburg.github.io/)
 - [PrivacyTools.guide](https://privacytools.guide)
