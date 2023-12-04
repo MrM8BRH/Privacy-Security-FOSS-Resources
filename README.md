@@ -467,6 +467,7 @@
 - [Open Source Alternative](https://www.opensourcealternative.to/)
 - [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
 - [Constant Robotics](https://www.constantrobotics.com/)
+- [Open Source Security Foundation](https://openssf.org/)
 - [Deps.dev](https://deps.dev/)
 - [Open Source Initiative](https://opensource.org/)
 - [Open Source Directory](https://opensource.net/)
