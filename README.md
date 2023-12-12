@@ -583,8 +583,6 @@
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 - [OpenKeychain](https://www.openkeychain.org/)
 - [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda)
-- [Collabora Office (Android & iOS)](https://www.collaboraoffice.com/collabora-office-android-ios/)
-- [Hevy](https://www.hevyapp.com/)
 
 ### Mapping and Navigation
 - [OpenStreetMap](https://www.openstreetmap.org/)
