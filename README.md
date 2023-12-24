@@ -227,6 +227,8 @@
 - [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 - [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 - [Vencord](https://vencord.dev/)
+- [Firefox Profilemaker](https://ffprofile.com/)
+- [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
 - [Privacy-Focused Alternatives to Facebook](https://alternativeto.net/software/facebook/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to Instagram](https://alternativeto.net/software/instagram/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to WhatsApp](https://alternativeto.net/software/whatsapp/?feature=privacy-focused&license=opensource)
