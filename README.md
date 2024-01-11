@@ -63,7 +63,7 @@
 | Virtualization and Containerization | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#virtualization-and-containerization) |
 | Design Toolkit | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#design-toolkit) |
 | Business Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#business-tools) |
-| Nostr Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#nostr-apps) |
+| Social Media Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#social-media-apps) |
 | IOS Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ios-apps) |
 | Android Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#android-apps) |
 | Mapping and Navigation | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#mapping-and-navigation) |
@@ -551,7 +551,7 @@
 - [Manager](https://www.manager.io/)
 - [Monica](https://github.com/monicahq/monica)
 
-### Nostr Apps
+### Social Media Apps
 - [Nostrapps](https://www.nostrapps.com/)
 - [Iris](https://iris.to/)
 - [Damus](https://damus.io/)
