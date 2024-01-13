@@ -17,6 +17,14 @@
   
 </div>
 
+**Note**:
+
+
+This repository is a collection of privacy, security, and FOSS resources that I have gathered over time. While I have made an effort to include resources that prioritize privacy and security, **I cannot guarantee that all resources listed are completely privacy-friendly or secure**. It's important to do your own research and due diligence before using any resource. You may want to consult with communities or experts in the field, or search for alternative options that may better suit your needs.
+
+Please keep in mind that privacy and security are constantly evolving fields, and what may have been considered secure or privacy-friendly in the past may no longer be the case. It's essential to stay informed and up-to-date on the latest developments and best practices.
+
+Additionally, it's worth noting that there may be alternative resources available that are not included in this repository. It's always a good idea to explore different options and compare their features, privacy policies, and security measures before making a decision.
 
 ## Privacy & Security
 <details>
