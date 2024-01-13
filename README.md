@@ -17,62 +17,67 @@
   
 </div>
 
-# Table of Contents
-## Privacy & Security Resources (EN)
-| Resource Category | Link |
-| --- | --- |
-| Wikipedia | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#wikipedia) |
-| Books | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#books) |
-| Documentaries and Films | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentaries-and-films) |
-| Academic Journals and Research Papers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#academic-journals-and-research-papers) |
-| Edward Snowden | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#edward-snowden) |
-| Blogs/Articles Resources | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsarticles-resources) |
-| YouTube | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube) |
-| Empowering Digital Privacy/Security: Tools and Guides | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#empowering-digital-privacysecurity-tools-and-guides) |
-| Testing Resources | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#testing-resources) |
-| Private Browsers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#private-browsers) |
-| Transparency and Whistleblower Websites/Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#transparency-and-whistleblower-websitesplatforms) |
-| Security Checkers and Breach Monitors | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#security-checkers-and-breach-monitors) |
-| Useful Tools for Image Verification and Analysis | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#useful-tools-for-image-verification-and-analysis) |
-| Router & DNS | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#router--dns) |
-| Comprehensive Malware Analysis and Detection Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#comprehensive-malware-analysis-and-detection-tools) |
-| Windows | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#windows) |
-| Secure Mobile Solutions | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#secure-mobile-solutions) |
-| Operating Systems | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#operating-systems) |
-| IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#imsi-catcher-detection-and-private-peer-to-peer-communication-tools--secure-communication-platforms) |
-| File Encryption Software | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#file-encryption-software) |
-| Data Privacy and Secure File Handling Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#data-privacy-and-secure-file-handling-tools) |
-| Blocklist Collection | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blocklist-collection) |
-| Privacy and Security Extensions for Firefox | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#privacy-and-security-extensions-for-firefox) |
-| Ransomware Decryption Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ransomware-decryption-tools) |
-
-## Privacy & Security Resources (AR)
-| Resource Category | Link |
-| --- | --- |
-| Blogs/News/Articles | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#blogsnewsarticles) |
-| YouTube | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#youtube-1) |
-
-## FOSS
-| Resource Category | Link |
-| --- | --- |
-| FOSS | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#free-and-open-source-software-foss-resources) |
-| Documentation Generators | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#documentation-generators) |
-| Programming | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#programming) |
-| Optimizing CSS Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#optimizing-css-tools) |
-| Server Platforms | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#server-platforms) |
-| Virtualization and Containerization | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#virtualization-and-containerization) |
-| Design Toolkit | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#design-toolkit) |
-| Business Tools | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#business-tools) |
-| Social Media Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#social-media-apps) |
-| IOS Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#ios-apps) |
-| Android Apps | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#android-apps) |
-| Mapping and Navigation | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#mapping-and-navigation) |
-| Custom Firmware for Routers | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#custom-firmware-for-routers) |
-| Use Cases for Home Server | [Link](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources#use-cases-for-home-server) |
-
 
 ## Privacy & Security
-### English Resources:
+<details>
+<summary><h4>Empowering Digital Privacy/Security: Tools and Guides</h4></summary>
+
+- [PrivacyTools.io](https://www.privacytools.io/)
+- [PrivacyTests.org](https://privacytests.org/)
+- [Surveillance Self-Defense](https://ssd.eff.org/)
+- [Awesome Privacy 1](https://awesome-privacy.xyz/#/)
+- [Awesome Privacy 2](https://github.com/pluja/awesome-privacy)
+- [Awesome Privacy 3](https://github.com/Lissy93/awesome-privacy)
+- [The New Oil](https://thenewoil.org/index.html)
+- [Freedom of the Press Foundation](https://freedom.press/)
+- [Watch Your Hack](https://watchyourhack.com/)
+- [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
+- [Prism Break](https://prism-break.org/en/)
+- [Exif Cleaner](https://exifcleaner.com/)
+- [OpenStego](https://www.openstego.com/)
+- [Dangerzone](https://dangerzone.rocks/)
+- [Traccar](https://www.traccar.org/)
+- [Security](https://www.security.org/)
+- [Phishing](https://www.phishing.org/)
+- [WireGuard](https://www.wireguard.com/)
+- [Let's Encrypt](https://letsencrypt.org/)
+- [GPGTools](https://gpgtools.org/)
+- [Gpg4win](https://gpg4win.org/index.html)
+- [gHacks](https://www.ghacks.net/)
+- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
+- [Secure Messaging Apps](https://www.securemessagingapps.com/)
+- [eylenburg.github.io](https://eylenburg.github.io/)
+- [PrivacyTools.guide](https://privacytools.guide)
+- [Switching Software](https://switching.software/)
+- [Two Factor Auth Directory](https://2fa.directory/int/)
+- [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
+- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
+- [Dig Deeper](https://digdeeper.neocities.org/)
+- [Spyware](https://spyware.neocities.org/)
+- [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
+- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
+- [European Alternatives](https://european-alternatives.eu/categories)
+- [NoSystemd](https://nosystemd.org/)
+- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
+- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Vencord](https://vencord.dev/)
+- [Firefox Profilemaker](https://ffprofile.com/)
+- [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
+- [Privacy-Focused Alternatives to Facebook](https://alternativeto.net/software/facebook/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Instagram](https://alternativeto.net/software/instagram/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to WhatsApp](https://alternativeto.net/software/whatsapp/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to YouTube](https://alternativeto.net/software/youtube/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Gmail](https://alternativeto.net/software/gmail/?feature=privacy-focused%2Cemail-encryption)
+- [Privacy-Focused Alternatives to Google Chrome](https://alternativeto.net/software/google-chrome/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Google Maps](https://alternativeto.net/software/google-maps/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Google Translate](https://alternativeto.net/software/google-translate/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Android Market](https://alternativeto.net/software/android-market/?feature=privacy-focused&license=opensource)
+- [Privacy-Focused Alternatives to Microsoft Office Suite](https://alternativeto.net/software/microsoft-office-suite/?feature=privacy-focused&license=opensource)
+</details>
+
+<details>
+<summary><h4>General Resources</h4></summary>
+  
 - [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 - [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [StopNCII](https://stopncii.org/)
@@ -96,59 +101,66 @@
 - [Telegram Limits](https://limits.tginfo.me/en)
 - [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
 - [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
+</details>
 
-#### Wikipedia
-- [Category: Global Surveillance](https://en.wikipedia.org/wiki/Category:Global_surveillance)
-- [Surveillance](https://en.wikipedia.org/wiki/Surveillance)
-- [Industrial Espionage](https://en.wikipedia.org/wiki/Industrial_espionage)
-- [Information Awareness Office](https://en.wikipedia.org/wiki/Information_Awareness_Office)
-- [Spying on United Nations leaders by United States diplomats](https://en.wikipedia.org/wiki/Spying_on_United_Nations_leaders_by_United_States_diplomats)
-- [Crypto AG](https://en.wikipedia.org/wiki/Crypto_AG)
-- [In-Q-Tel](https://en.wikipedia.org/wiki/In-Q-Tel)
-- [Katharine Gun](https://en.wikipedia.org/wiki/Katharine_Gun)
-- [Dropmire](https://en.wikipedia.org/wiki/Dropmire)
-- [Tempora](https://en.wikipedia.org/wiki/Tempora)
-- [Gamma Group](https://en.wikipedia.org/wiki/Gamma_Group)
-- [Hacking Team](https://en.wikipedia.org/wiki/Hacking_Team)
-- [Chinese espionage in the United States](https://en.wikipedia.org/wiki/Chinese_espionage_in_the_United_States)
-- [Mass Surveillance in the United States](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_States)
-- [Russian research vessel Yantar](https://en.wikipedia.org/wiki/Russian_research_vessel_Yantar)
-- [List of Government Mass Surveillance Projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
-- [Right to Privacy](https://en.wikipedia.org/wiki/Right_to_privacy)
-- [List of Intelligence Agencies](https://en.wikipedia.org/wiki/List_of_intelligence_agencies)
+<details>
+<summary><h4>Comprehensive Malware Analysis and Detection Tools</h4></summary>
 
-#### Books
-- [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
-- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
-- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
-- [Cypherpunks: Freedom and the Future of the Internet](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
-- [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
-- [Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)
-- [Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)
-- [We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)
-- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)
-- [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)
-- [Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [VirusScan Jotti](https://virusscan.jotti.org/)
+- [Any Run](https://any.run/)
+- [AntiScan](https://antiscan.me/)
+- [MetaDefender](https://metadefender.opswat.com/)
+- [Joe Sandbox](https://www.joesandbox.com/)
+- [urlscan](https://urlscan.io/)
+- [Kleenscan](https://kleenscan.com/index)
+- [PolySwarm](https://polyswarm.network/)
+- [Browserling](https://www.browserling.com/)
+- [Wannabrowser](https://www.wannabrowser.net/)
+- [GMER](http://www.gmer.net/)
+- [chkrootkit](https://www.chkrootkit.org/)
+- [ClamAV](https://www.clamav.net/)
+- [Winitor](https://www.winitor.com/)
+- [RKill](https://www.bleepingcomputer.com/download/rkill/)
+- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
+</details>
 
-#### Documentaries and Films
-- ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
-- ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
-- ["Snowden" (2016)](https://www.imdb.com/title/tt3774114/)
-- ["The Great Hack" (2019)](https://www.imdb.com/title/tt9358204/)
+<details>
+<summary><h4>Testing Resources</h4></summary>
 
-#### Academic Journals and Research Papers
-- [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society)
-- [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
-- [Journal of Privacy and Confidentiality](https://journalprivacyconfidentiality.org/)
+- [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
+- [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
+- [AdBlock Tester](https://adblock-tester.com/)
+- [CanYouBlockIt](https://canyoublockit.com/)
+- [FiveFilters - Block Ads](https://blockads.fivefilters.org/)
+- [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
+- [Phishing Tackle Quiz](https://phishingtackle.com/phishing-quiz/)
+- [EFF - Cover Your Tracks](https://coveryourtracks.eff.org/)
+- [Browser Leaks](https://browserleaks.com/)
+- [Privacy Analyzer](https://privacy.net/analyzer/)
+- [Oskar - DNS Leak Test](https://0skar.cz/dns/en/)
+- [Malicious Website Test](http://maliciouswebsitetest.com/)
+- [EICAR - Anti-Malware Test File](https://www.eicar.org/)
+- [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
+</details>
 
-#### Edward Snowden
-- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
-- [Edward Snowden's Twitter](https://twitter.com/Snowden)
-- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
-- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
-- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+<details>
+<summary><h4>Private Browsers</h4></summary>
+  
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
+- [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
+- [Waterfox](https://www.waterfox.net/)
+- [Brave](https://brave.com/)
+- [Iridium Browser](https://iridiumbrowser.de/)
+- [Onion Browser](https://onionbrowser.com/)
+- [Bromite](https://www.bromite.org/)
+- [GNUzilla](https://www.gnu.org/software/gnuzilla/)
+</details>
 
-#### Blogs/Articles Resources:
+<details>
+<summary><h4>Blogs/Articles</h4></summary>
+
 - [Center for Democracy & Technology (CDT)](https://cdt.org/)
 - [American Civil Liberties Union (ACLU) - Privacy & Technology](https://www.aclu.org/issues/privacy-technology)
 - [Digital Privacy News](https://digitalprivacy.news/)
@@ -175,8 +187,11 @@
 - [The Tor Project Blog](https://blog.torproject.org/)
 - [Dark Reading - Privacy](https://www.darkreading.com/privacy)
 - [How to Clear the Cache and Cookies in Your Web Browser](https://its.uiowa.edu/support/article/719)
+</details>
 
-#### YouTube
+<details>
+<summary><h4>YouTube</h4></summary>
+
 - [PC Security Channel on YouTube](https://www.youtube.com/@pcsecuritychannel/videos)
 - [DEF CON 22 - Dr. Philip Polstra - Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM)
 - [60 Minutes Australia: Bugged, Tracked, Hacked (2015)](https://www.youtube.com/watch?v=1oA0O01SQUE)
@@ -189,155 +204,46 @@
 - [Submarine Cables and the Rise of Mass Surveillance](https://www.youtube.com/watch?v=2P3P5OkGt8Q)
 - [How to Hack a Car: Phreaked Out (Episode 2)](https://www.youtube.com/watch?v=3jstaBeXgAs)
 - [The Spy in Your Phone | Al Jazeera World](https://www.youtube.com/watch?v=lfOgm1IcBd0)
+</details>
 
-#### Empowering Digital Privacy/Security: Tools and Guides
-- [Surveillance Self-Defense](https://ssd.eff.org/)
-- [Awesome Privacy 1](https://awesome-privacy.xyz/#/)
-- [Awesome Privacy 2](https://github.com/pluja/awesome-privacy)
-- [Awesome Privacy 3](https://github.com/Lissy93/awesome-privacy)
-- [The New Oil](https://thenewoil.org/index.html)
-- [Freedom of the Press Foundation](https://freedom.press/)
-- [Watch Your Hack](https://watchyourhack.com/)
-- [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
-- [Prism Break](https://prism-break.org/en/)
-- [Exif Cleaner](https://exifcleaner.com/)
-- [OpenStego](https://www.openstego.com/)
-- [Dangerzone](https://dangerzone.rocks/)
-- [Traccar](https://www.traccar.org/)
-- [Security](https://www.security.org/)
-- [Phishing](https://www.phishing.org/)
-- [WireGuard](https://www.wireguard.com/)
-- [Let's Encrypt](https://letsencrypt.org/)
-- [GPGTools](https://gpgtools.org/)
-- [Gpg4win](https://gpg4win.org/index.html)
-- [gHacks](https://www.ghacks.net/)
-- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
-- [Secure Messaging Apps](https://www.securemessagingapps.com/)
-- [eylenburg.github.io](https://eylenburg.github.io/)
-- [PrivacyTools.guide](https://privacytools.guide)
-- [PrivacyTools.io](https://www.privacytools.io/)
-- [PrivacyTests.org](https://privacytests.org/)
-- [Switching Software](https://switching.software/)
-- [Two Factor Auth Directory](https://2fa.directory/int/)
-- [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
-- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
-- [Dig Deeper](https://digdeeper.neocities.org/)
-- [Spyware](https://spyware.neocities.org/)
-- [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
-- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
-- [European Alternatives](https://european-alternatives.eu/categories)
-- [NoSystemd](https://nosystemd.org/)
-- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
-- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
-- [Vencord](https://vencord.dev/)
-- [Firefox Profilemaker](https://ffprofile.com/)
-- [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
-- [Privacy-Focused Alternatives to Facebook](https://alternativeto.net/software/facebook/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Instagram](https://alternativeto.net/software/instagram/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to WhatsApp](https://alternativeto.net/software/whatsapp/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to YouTube](https://alternativeto.net/software/youtube/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Gmail](https://alternativeto.net/software/gmail/?feature=privacy-focused%2Cemail-encryption)
-- [Privacy-Focused Alternatives to Google Chrome](https://alternativeto.net/software/google-chrome/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Google Maps](https://alternativeto.net/software/google-maps/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Google Translate](https://alternativeto.net/software/google-translate/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Android Market](https://alternativeto.net/software/android-market/?feature=privacy-focused&license=opensource)
-- [Privacy-Focused Alternatives to Microsoft Office Suite](https://alternativeto.net/software/microsoft-office-suite/?feature=privacy-focused&license=opensource)
+<details>
+<summary><h4>Transparency and Whistleblower Websites/Platforms</h4></summary>
 
-
-#### Testing Resources:
-- [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
-- [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
-- [AdBlock Tester](https://adblock-tester.com/)
-- [CanYouBlockIt](https://canyoublockit.com/)
-- [FiveFilters - Block Ads](https://blockads.fivefilters.org/)
-- [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
-- [Phishing Tackle Quiz](https://phishingtackle.com/phishing-quiz/)
-- [EFF - Cover Your Tracks](https://coveryourtracks.eff.org/)
-- [Browser Leaks](https://browserleaks.com/)
-- [Privacy Analyzer](https://privacy.net/analyzer/)
-- [Oskar - DNS Leak Test](https://0skar.cz/dns/en/)
-- [Malicious Website Test](http://maliciouswebsitetest.com/)
-- [EICAR - Anti-Malware Test File](https://www.eicar.org/)
-- [WICAR - Test your Anti-Malware Solution](https://www.wicar.org/)
-
-#### Private Browsers
-- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
-- [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-- [Waterfox](https://www.waterfox.net/)
-- [Brave](https://brave.com/)
-- [Iridium Browser](https://iridiumbrowser.de/)
-- [Onion Browser](https://onionbrowser.com/)
-- [Bromite](https://www.bromite.org/)
-- [GNUzilla](https://www.gnu.org/software/gnuzilla/)
-
-#### Transparency and Whistleblower Websites/Platforms
 - [SecureDrop](https://securedrop.org/)
 - [WikiLeaks](https://wikileaks.org/)
 - [Cryptome](https://cryptome.org/)
 - [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
 - [GlobalLeaks](https://www.globaleaks.org/)
+</details>
 
-#### Security Checkers and Breach Monitors
+<details>
+<summary><h4>Security Checkers and Breach Monitors</h4></summary>
+  
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Am I Breached](https://www.amibreached.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
+</details>
 
-#### Useful Tools for Image Verification and Analysis
-- [TinEye](https://tineye.com/)
-- [Forensic Magnifier by 29a](https://29a.ch/photo-forensics/#forensic-magnifier)
-- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
-- [Wolfram Alpha](https://www.wolframalpha.com/)
-- [Open Minds - EXIF Sample](https://openminds.exopaedia.org/EXIF%20samples/exif%2069667671.egLsAwK4.Staroselciweb64_6625.htm)
+<details>
+<summary><h4>Router & DNS</h4></summary>
 
-#### Router & DNS
 - [Router Security](https://www.routersecurity.org/index.php)
 - [DNS Privacy Project](https://dnsprivacy.org/)
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
+</details>
 
-#### Comprehensive Malware Analysis and Detection Tools
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [Hybrid Analysis](https://www.hybrid-analysis.com/)
-- [VirusScan Jotti](https://virusscan.jotti.org/)
-- [Any Run](https://any.run/)
-- [AntiScan](https://antiscan.me/)
-- [MetaDefender](https://metadefender.opswat.com/)
-- [Joe Sandbox](https://www.joesandbox.com/)
-- [urlscan](https://urlscan.io/)
-- [Kleenscan](https://kleenscan.com/index)
-- [PolySwarm](https://polyswarm.network/)
-- [Browserling](https://www.browserling.com/)
-- [Wannabrowser](https://www.wannabrowser.net/)
-- [GMER](http://www.gmer.net/)
-- [chkrootkit](https://www.chkrootkit.org/)
-- [ClamAV](https://www.clamav.net/)
-- [Winitor](https://www.winitor.com/)
-- [RKill](https://www.bleepingcomputer.com/download/rkill/)
-- [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide)
+<details>
+<summary><h4>Secure Mobile Solutions</h4></summary>
 
-#### Windows
-- [Hardentools](https://github.com/hardentools/hardentools)
-- [Unchecky](https://unchecky.com/)
-- [Portmaster](https://github.com/Safing/portmaster)
-- [Windows Firewall Control](https://www.binisoft.org/wfc)
-- [USB Firewall](https://www.binisoft.org/usbc)
-- [BiniSoft](https://www.binisoft.org/)
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
-- [WPD](https://wpd.app/)
-- [DoNotSpy11](https://pxc-coding.com/donotspy11/)
-- [W10Privacy](https://www.w10privacy.de/english-home/)
-- [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/)
-- [Privacy Repairer](https://www.securilla.com/privacy-repairer)
-- [Debotnet](https://github.com/builtbybel/debotnet)
-- [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
-- [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
-
-#### Secure Mobile Solutions
 - [X-Cellular](https://x-cellular.com/)
 - [Purism](https://puri.sm/)
 - [Blackphone 2](https://www.encrypted-os.com/encrypted-devices/)
+</details>
 
-#### Operating Systems
+<details>
+<summary><h4>Operating Systems</h4></summary>
+
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
@@ -361,8 +267,31 @@
 - [Atlas OS](https://atlasos.net/)
 - [Revi](https://www.revi.cc/)
 - [Android ROM List](https://github.com/musabcel/android_rom_list)
+</details>
 
-#### IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms
+<details>
+<summary><h4>Windows OS</h4></summary>
+
+- [Hardentools](https://github.com/hardentools/hardentools)
+- [Unchecky](https://unchecky.com/)
+- [Portmaster](https://github.com/Safing/portmaster)
+- [Windows Firewall Control](https://www.binisoft.org/wfc)
+- [USB Firewall](https://www.binisoft.org/usbc)
+- [BiniSoft](https://www.binisoft.org/)
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
+- [WPD](https://wpd.app/)
+- [DoNotSpy11](https://pxc-coding.com/donotspy11/)
+- [W10Privacy](https://www.w10privacy.de/english-home/)
+- [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/)
+- [Privacy Repairer](https://www.securilla.com/privacy-repairer)
+- [Debotnet](https://github.com/builtbybel/debotnet)
+- [Ashampoo AntiSpy](https://www.ashampoo.com/en-eu/antispy-for-windows-10)
+- [Institute for Advanced Study (IAS) - Security Software](https://www.ias.edu/security/software)
+</details>
+
+<details>
+<summary><h4>IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms</h4></summary>
+
 - [Simplex Chat](https://simplex.chat/) 
 - [IronCircles](https://ironcircles.com/)
 - [qaul – قول](https://qaul.net/)
@@ -383,16 +312,22 @@
 - [AirGuard](https://github.com/seemoo-lab/AirGuard)
 - [AirGuard iOS](https://github.com/seemoo-lab/AirGuard-iOS)
 - [IMSI Catcher by Oros42](https://github.com/Oros42/IMSI-catcher)
+</details>
 
-#### File Encryption Software
+<details>
+<summary><h4>File Encryption Software</h4></summary>
+
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
 - [GNU Privacy Guard (GnuPG)](https://gnupg.org/)
 - [PGPTool](https://pgptool.github.io/)
 - [7-Zip](https://7-zip.org/)
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 - [Cryptomator](https://github.com/cryptomator)
+</details>
 
-#### Data Privacy and Secure File Handling Tools
+<details>
+<summary><h4>Data Privacy and Secure File Handling Tools</h4></summary>
+
 - [BleachBit](https://github.com/bleachbit/bleachbit)
 - [ExifCleaner](https://github.com/szTheory/exifcleaner)
 - [File Shredder](https://www.fileshredder.org/)
@@ -400,8 +335,11 @@
 - [EXIF Eraser](https://github.com/Tommy-Geenexus/exif-eraser)
 - [Czkawka](https://github.com/qarmin/czkawka)
 - [Dism Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)
+</details>
 
-#### Blocklist Collection
+<details>
+<summary><h4>Blocklist Collection</h4></summary>
+
 - [FilterLists](https://filterlists.com/)
 - [EasyList](https://easylist.to/)
 - [LightSwitch05 Hosts](https://github.com/lightswitch05/hosts)
@@ -418,8 +356,11 @@
 - [URLhaus Hostfile](https://urlhaus.abuse.ch/downloads/hostfile/)
 - [Zeltser Malicious IP Blocklists](https://zeltser.com/malicious-ip-blocklists/)
 - [NextDNS Metadata](https://github.com/nextdns/metadata)
+</details>
 
-#### Privacy and Security Extensions for Firefox
+<details>
+<summary><h4>Privacy and Security Extensions for Firefox</h4></summary>
+
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
@@ -433,8 +374,11 @@
 - [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
 - [PopupOFF](https://addons.mozilla.org/en-US/firefox/addon/popupoff/)
+</details>
 
-#### Ransomware Decryption Tools
+<details>
+<summary><h4>Ransomware Decryption Tools</h4></summary>
+  
 - [Quick Heal Free Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
 - [No More Ransom - Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)
 - [Emsisoft Ransomware Decryption Tools](https://www.emsisoft.com/en/ransomware-decryption/)
@@ -442,10 +386,88 @@
 - [Avast Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)
 - [BleepingComputer Ransomware Decryptors](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)
 - [BugsFighter Ransomware](https://www.bugsfighter.com/ransomware/)
+</details>
 
-### Arabic Resources:
+<details>
+<summary><h4>Useful Tools for Image Verification and Analysis</h4></summary>
+  
+- [TinEye](https://tineye.com/)
+- [Forensic Magnifier by 29a](https://29a.ch/photo-forensics/#forensic-magnifier)
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Open Minds - EXIF Sample](https://openminds.exopaedia.org/EXIF%20samples/exif%2069667671.egLsAwK4.Staroselciweb64_6625.htm)
+</details>
 
-#### Blogs/News/Articles
+<details>
+<summary><h4>Wikipedia</h4></summary>
+  
+- [Category: Global Surveillance](https://en.wikipedia.org/wiki/Category:Global_surveillance)
+- [Surveillance](https://en.wikipedia.org/wiki/Surveillance)
+- [Industrial Espionage](https://en.wikipedia.org/wiki/Industrial_espionage)
+- [Information Awareness Office](https://en.wikipedia.org/wiki/Information_Awareness_Office)
+- [Spying on United Nations leaders by United States diplomats](https://en.wikipedia.org/wiki/Spying_on_United_Nations_leaders_by_United_States_diplomats)
+- [Crypto AG](https://en.wikipedia.org/wiki/Crypto_AG)
+- [In-Q-Tel](https://en.wikipedia.org/wiki/In-Q-Tel)
+- [Katharine Gun](https://en.wikipedia.org/wiki/Katharine_Gun)
+- [Dropmire](https://en.wikipedia.org/wiki/Dropmire)
+- [Tempora](https://en.wikipedia.org/wiki/Tempora)
+- [Gamma Group](https://en.wikipedia.org/wiki/Gamma_Group)
+- [Hacking Team](https://en.wikipedia.org/wiki/Hacking_Team)
+- [Chinese espionage in the United States](https://en.wikipedia.org/wiki/Chinese_espionage_in_the_United_States)
+- [Mass Surveillance in the United States](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_States)
+- [Russian research vessel Yantar](https://en.wikipedia.org/wiki/Russian_research_vessel_Yantar)
+- [List of Government Mass Surveillance Projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
+- [Right to Privacy](https://en.wikipedia.org/wiki/Right_to_privacy)
+- [List of Intelligence Agencies](https://en.wikipedia.org/wiki/List_of_intelligence_agencies)
+</details>
+
+<details>
+<summary><h4>Books</h4></summary>
+  
+- [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
+- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
+- [Cypherpunks: Freedom and the Future of the Internet](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
+- [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
+- [Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)
+- [Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)
+- [We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)
+- [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)
+- [Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)
+</details>
+
+<details>
+<summary><h4>Documentaries and Films</h4></summary>
+  
+- ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
+- ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
+- ["Snowden" (2016)](https://www.imdb.com/title/tt3774114/)
+- ["The Great Hack" (2019)](https://www.imdb.com/title/tt9358204/)
+</details>
+
+<details>
+<summary><h4>Academic Journals and Research Papers</h4></summary>
+  
+- [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society)
+- [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
+- [Journal of Privacy and Confidentiality](https://journalprivacyconfidentiality.org/)
+</details>
+
+<details>
+<summary><h4>Edward Snowden</h4></summary>
+
+- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden's Twitter](https://twitter.com/Snowden)
+- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
+- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+</details>
+
+<details>
+<summary><h4>Blogs/News/Articles (Arabic)</h4></summary>
+
+- <a href="https://ar.quora.com/%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%85%D8%B2%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%83%D8%B4%D9%81-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D9%83-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9" dir="ltr">هل يمكن لمزود الانترنت كشف اتصالك بشبكة الـ ڤي بي ان وفي هذه الحالة هل يوجد طريقة لمنع اكتشافه لك؟</a>
 - [SalamaTech](https://salamatech.org/)
 - [SalamaTech Wiki](https://salamatechwiki.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
 - [Salamat Mena Portal](https://portal.salamatmena.org/)
@@ -453,8 +475,11 @@
 - [Euronews Arabic - Cyber Security](https://arabic.euronews.com/tag/cyber-security)
 - [Zanga Tech](https://zanga.tech/?platform=all)
 - [Arab Sciences - Cyber Terrorism](https://arabsciences.com/2017/11/28/cyber-terror/)
+</details>
 
-#### YouTube
+<details>
+<summary><h4>YouTube (Arabic)</h4></summary>
+
 - <a href="https://www.youtube.com/playlist?list=PLJyrzEL-wvYJ75QydgsrBuzC944eE8VLT" dir="ltr">ما خفي أعظم</a>
 - <a href="https://www.youtube.com/watch?v=b3NtvEmoKjQ" dir="ltr">أبرز الشركات التقنية الإسرائيلية في مجال التجسس الإلكتروني</a>
 - <a href="https://www.youtube.com/watch?v=sj5I8B_aHAE" dir="ltr">الاقليم المحتل هكذا تقوم الصين بأذلال وسجن مليون مسلم</a>
@@ -466,8 +491,14 @@
 - <a href="https://www.youtube.com/watch?v=N8czgvHQyik" dir="ltr">تقنيات مرعبة.. انتحال شخصيتك أصبح واقعا!</a>
 - <a href="https://www.youtube.com/watch?v=3rKpooXkcOc" dir="ltr">مشاريع الجيش الأمريكي السرية</a>
 - <a href="https://www.youtube.com/watch?v=25P5y1SZ5bM" dir="ltr">لعبة الاستخبارات الصينية.. كيف اخترقت التكنولوجيا الغربية وسرقتها؟</a>
+</details>
 
-## Free and Open-Source Software (FOSS) Resources:
+
+## Free and Open-Source Software (FOSS) 
+
+<details>
+<summary><h4>General Resources</h4></summary>
+  
 - [It's FOSS](https://itsfoss.com/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [OSS Insight](https://ossinsight.io/)
@@ -491,8 +522,11 @@
 - [LibreTranslate](https://libretranslate.com/)
 - [Trilium](https://github.com/zadam/trilium)
 - [Markmap](https://markmap.js.org/)
+</details>
 
-### Documentation Generators
+<details>
+<summary><h4>Documentation Generators</h4></summary>
+
 - [JSWiki](https://js.wiki/)
 - [GitBook](https://www.gitbook.com/)
 - [BookStack](https://www.bookstackapp.com/)
@@ -500,8 +534,11 @@
 - [DokuWiki](https://www.dokuwiki.org/dokuwiki)
 - [Read the Docs](https://about.readthedocs.com/)
 - [mdBook](https://rust-lang.github.io/mdBook/)
+</details>
 
-### Programming
+<details>
+<summary><h4>Programming</h4></summary>
+
 - [The Algorithms](https://the-algorithms.com/)
 - [Developer Tools](https://fmhy.pages.dev/devtools/)
 - [Quick Reference](https://quickref.me/)
@@ -516,22 +553,31 @@
 - [Learn Programo - C Programs](https://learnprogramo.com/category/c-programs/)
 - [Developer Roadmap](https://roadmap.sh/)
 - [IT & Cyber Security Start Page](https://start.me/p/KMqznE/it-cyber-security)
+</details>
 
-### Optimizing CSS Tools
+<details>
+<summary><h4>Optimizing CSS Tools</h4></summary>
+
 - [10 Frontend Performance Monitoring Tools in 2023](https://ddosify.com/blog/ten-frontend-performance-monitoring-tools-in-2023/)
 - [PurgeCSS](https://purgecss.com/)
 - [UnCSS Online](https://uncss-online.com/)
 - [cssnano](https://cssnano.co/)
 - [Stylelint](https://stylelint.io/)
+</details>
 
-### Server Platforms
+<details>
+<summary><h4>Server Platforms</h4></summary>
+
 - [FreePBX](https://www.freepbx.org/)
 - [FreedomBox](https://freedombox.org/download/)
 - [Ignite Realtime](https://www.igniterealtime.org/downloads/)
 - [Open Hospital](https://www.open-hospital.org/)
 - [LinOTP](https://www.linotp.org/)
+</details>
 
-### Virtualization and Containerization
+<details>
+<summary><h4>Virtualization and Containerization</h4></summary>
+  
 - [Proxmox](https://www.proxmox.com/en/)
 - [VirtualBox](https://www.virtualbox.org/)
 - [Docker](https://www.docker.com/)
@@ -541,29 +587,44 @@
 - [Podman](https://podman.io/)
 - [Vagrant](https://www.vagrantup.com/)
 - [XCP-ng](https://xcp-ng.org/)
+</details>
 
-### Design Toolkit
+<details>
+<summary><h4>Design Toolkit</h4></summary>
+
 - [CSS](https://css.gg/)
 - [Iconduck](https://iconduck.com/)
+</details>
 
-### Business Tools
+<details>
+<summary><h4>Business Tools</h4></summary>
+  
 - [Odoo](https://www.odoo.com/)
 - [Manager](https://www.manager.io/)
 - [Monica](https://github.com/monicahq/monica)
+</details>
 
-### Social Media Apps
+<details>
+<summary><h4>Social Media Apps</h4></summary>
+
 - [Nostrapps](https://www.nostrapps.com/)
 - [Iris](https://iris.to/)
 - [Damus](https://damus.io/)
 - [Amethyst](https://github.com/vitorpamplona/amethyst)
 - [Snort social](https://snort.social/)
+</details>
 
-### IOS Apps
+<details>
+<summary><h4>IOS Apps</h4></summary>
+
 - [Lockdown Privacy](https://lockdownprivacy.com/)
 - [Raivo OTP](https://raivo-otp.com/)
 - [AltStore](https://altstore.io/)
+</details>
 
-### Android Apps
+<details>
+<summary><h4>Android Apps</h4></summary>
+
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
 - [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
 - [F-Droid](https://f-droid.org/)
@@ -589,8 +650,11 @@
 - [Imagepipe](https://codeberg.org/Starfish/Imagepipe)
 - [OpenKeychain](https://www.openkeychain.org/)
 - [NoorUlHuda](https://github.com/mirfatif/NoorUlHuda)
+</details>
 
-### Mapping and Navigation
+<details>
+<summary><h4>Mapping and Navigation</h4></summary>
+
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
 - [GSM Map](https://gsmmap.org/#!/)
@@ -608,14 +672,20 @@
 - [RadarBox](https://www.radarbox.com)
 - [FlightRadar24](https://www.flightradar24.com)
 - [FlightAware](https://www.flightaware.com/)
+</details>
 
-### Custom Firmware for Routers
+<details>
+<summary><h4>Custom Firmware for Routers</h4></summary>
+
 - [OpenWrt](https://openwrt.org/start)
 - [DD-WRT](https://dd-wrt.com/)
 - [AdvancedTomato](https://advancedtomato.com/)
 - [Asuswrt-Merlin](https://www.asuswrt-merlin.net/)
+</details>
 
-### Use Cases for Home Server
+<details>
+<summary><h4>Use Cases for Home Server</h4></summary>
+
 - **File Storage and Sharing:**
   - [Nextcloud](https://nextcloud.com/)
   - [TrueNAS](https://www.truenas.com/)
@@ -660,4 +730,4 @@
   - [OpenCTI](https://www.opencti.io/)
   - [MISP (Malware Information Sharing Platform)](https://www.misp-project.org/)
   - [CRITs (Collaborative Research Into Threats)](https://crits.github.io/)
-
+</details>
