@@ -31,46 +31,42 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <summary><h4>Empowering Digital Privacy/Security: Tools and Guides</h4></summary>
 
 - [PrivacyTools.io](https://www.privacytools.io/)
-- [PrivacyTests.org](https://privacytests.org/)
+- [PrivacyTools.guide](https://privacytools.guide)
+- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
-- [Awesome Privacy 1](https://awesome-privacy.xyz/#/)
-- [Awesome Privacy 2](https://github.com/pluja/awesome-privacy)
-- [Awesome Privacy 3](https://github.com/Lissy93/awesome-privacy)
+- [Awesome Privacy (Lissy93) - GitHub](https://github.com/Lissy93/awesome-privacy)
+- [Awesome Privacy (pluja) - GitHub](https://github.com/pluja/awesome-privacy)
+- [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
+- [Awesome Privacy](https://awesome-privacy.xyz/#/)
 - [The New Oil](https://thenewoil.org/index.html)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Watch Your Hack](https://watchyourhack.com/)
-- [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
 - [Prism Break](https://prism-break.org/en/)
-- [Exif Cleaner](https://exifcleaner.com/)
-- [OpenStego](https://www.openstego.com/)
-- [Dangerzone](https://dangerzone.rocks/)
-- [Traccar](https://www.traccar.org/)
-- [Security](https://www.security.org/)
-- [Phishing](https://www.phishing.org/)
-- [WireGuard](https://www.wireguard.com/)
-- [Let's Encrypt](https://letsencrypt.org/)
-- [GPGTools](https://gpgtools.org/)
-- [Gpg4win](https://gpg4win.org/index.html)
 - [gHacks](https://www.ghacks.net/)
-- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
-- [Secure Messaging Apps](https://www.securemessagingapps.com/)
-- [eylenburg.github.io](https://eylenburg.github.io/)
-- [PrivacyTools.guide](https://privacytools.guide)
-- [Switching Software](https://switching.software/)
 - [Two Factor Auth Directory](https://2fa.directory/int/)
 - [Bitcoiner Toolkit](https://bitcoiner.guide/toolkit/)
-- [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
 - [Dig Deeper](https://digdeeper.neocities.org/)
 - [Spyware](https://spyware.neocities.org/)
-- [Data Detox Kit - Alternative App Centre](https://datadetoxkit.org/en/alternative-app-centre/)
-- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
+- [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
+
+Tools
+- [Traccar](https://www.traccar.org/)
+- [WireGuard](https://www.wireguard.com/)
+- [Let's Encrypt](https://letsencrypt.org/)
+</details>
+
+<details>
+<summary><h4>Privacy-Focused Alternatives</h4></summary>
+
+- [Switching Software](https://switching.software/)
 - [European Alternatives](https://european-alternatives.eu/categories)
-- [NoSystemd](https://nosystemd.org/)
-- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
-- [OffcierCia Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- [PrivacyTests.org](https://privacytests.org/)
+- [Eylenburg](https://eylenburg.github.io/)
+- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit?pli=1#gid=0)
 - [Vencord](https://vencord.dev/)
-- [Firefox Profilemaker](https://ffprofile.com/)
-- [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
+- [Libredirect - Alternative Privacy-Friendly Frontends](https://libredirect.github.io/)
+- [Spread Privacy - How to Remove Google](https://spreadprivacy.com/how-to-remove-google/)
 - [Privacy-Focused Alternatives to Facebook](https://alternativeto.net/software/facebook/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to Instagram](https://alternativeto.net/software/instagram/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to WhatsApp](https://alternativeto.net/software/whatsapp/?feature=privacy-focused&license=opensource)
@@ -87,15 +83,8 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <summary><h4>General Resources</h4></summary>
   
 - [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
-- [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [StopNCII](https://stopncii.org/)
 - [Offensive Security Private Companies Inventory](https://xorl.wordpress.com/offensive-security-private-companies-inventory/)
-- [US Cyber Operations Groups](https://xorl.wordpress.com/2021/04/18/us-cyber-operations-groups/)
-- [Russia’s Cyber Operations Groups](https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/)
-- [Iran Cyber Operations Groups](https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/)
-- [EU Cyber Operations Groups](https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/)
-- [North Korea (DPRK) Cyber Operations Groups](https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/)
-- [Chinese Cyber Operations Groups](https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/)
 - [Anonymous Planet Links](https://anonymousplanet.org/links.html)
 - [Libreboot FAQ (Intel)](https://libreboot.org/faq.html#intel)
 - [Libreboot FAQ (AMD)](https://libreboot.org/faq.html#amd)
@@ -108,7 +97,6 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - [Telegram Security Best Practices](https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM)
 - [Telegram Limits](https://limits.tginfo.me/en)
 - [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
-- [OPSEC & Online Privacy](https://start.me/p/BnrKpe/02-opsec-online-privacy)
 </details>
 
 <details>
@@ -252,6 +240,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><h4>Operating Systems</h4></summary>
 
+- [NoSystemd](https://nosystemd.org/)
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
@@ -300,6 +289,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><h4>IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms</h4></summary>
 
+- [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [Simplex Chat](https://simplex.chat/) 
 - [IronCircles](https://ironcircles.com/)
 - [qaul – قول](https://qaul.net/)
@@ -328,6 +318,8 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
 - [GNU Privacy Guard (GnuPG)](https://gnupg.org/)
 - [PGPTool](https://pgptool.github.io/)
+- [GPGTools](https://gpgtools.org/)
+- [Gpg4win](https://gpg4win.org/index.html)
 - [7-Zip](https://7-zip.org/)
 - [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
 - [Cryptomator](https://github.com/cryptomator)
@@ -336,8 +328,11 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><h4>Data Privacy and Secure File Handling Tools</h4></summary>
 
+- [Exif Cleaner](https://exifcleaner.com/)
+- [ExifCleaner (szTheory) - GitHub](https://github.com/szTheory/exifcleaner)
+- [OpenStego](https://www.openstego.com/)
+- [Dangerzone](https://dangerzone.rocks/)
 - [BleachBit](https://github.com/bleachbit/bleachbit)
-- [ExifCleaner](https://github.com/szTheory/exifcleaner)
 - [File Shredder](https://www.fileshredder.org/)
 - [Eraser](https://sourceforge.net/projects/eraser/)
 - [EXIF Eraser](https://github.com/Tommy-Geenexus/exif-eraser)
@@ -367,8 +362,13 @@ Additionally, it's worth noting that there may be alternative resources availabl
 </details>
 
 <details>
-<summary><h4>Privacy and Security Extensions for Firefox</h4></summary>
+<summary><h4>Firefox</h4></summary>
 
+Firefox Profile
+- [Firefox Profilemaker](https://ffprofile.com/)
+- [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
+
+Privacy and Security Extensions for Firefox
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
@@ -427,6 +427,17 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - [List of Government Mass Surveillance Projects](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
 - [Right to Privacy](https://en.wikipedia.org/wiki/Right_to_privacy)
 - [List of Intelligence Agencies](https://en.wikipedia.org/wiki/List_of_intelligence_agencies)
+</details>
+
+<details>
+<summary><h4>Cyber Operations Groups</h4></summary>
+
+- [US Cyber Operations Groups](https://xorl.wordpress.com/2021/04/18/us-cyber-operations-groups/)
+- [Russia’s Cyber Operations Groups](https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/)
+- [Iran Cyber Operations Groups](https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/)
+- [EU Cyber Operations Groups](https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/)
+- [North Korea (DPRK) Cyber Operations Groups](https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/)
+- [Chinese Cyber Operations Groups](https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/)
 </details>
 
 <details>
