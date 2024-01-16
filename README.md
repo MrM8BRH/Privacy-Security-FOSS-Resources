@@ -556,34 +556,16 @@ Privacy and Security Extensions for Firefox
 </details>
 
 <details>
-<summary><h4>Programming</h4></summary>
+<summary><h4>Platforms</h4></summary>
 
-- [Carbon](https://carbon.vercel.app/)
-- [Uiverse](https://uiverse.io/)
-- [Transform Tools](https://transform.tools/)
-- [The Algorithms](https://the-algorithms.com/)
-- [Developer Tools](https://fmhy.pages.dev/devtools/)
-- [Quick Reference](https://quickref.me/)
-- [FindDev Tools](https://finddev.tools/)
-- [Free for Developers](https://free-for.dev/#/)
-- [Developer Roadmap](https://roadmap.sh/)
-</details>
-
-<details>
-<summary><h4>Optimizing CSS Tools</h4></summary>
-
-- [10 Frontend Performance Monitoring Tools in 2023](https://ddosify.com/blog/ten-frontend-performance-monitoring-tools-in-2023/)
-- [PurgeCSS](https://purgecss.com/)
-- [UnCSS Online](https://uncss-online.com/)
-- [cssnano](https://cssnano.co/)
-- [Stylelint](https://stylelint.io/)
-</details>
-
-<details>
-<summary><h4>Server Platforms</h4></summary>
-
+- [Odoo](https://www.odoo.com/)
+- [Manager](https://www.manager.io/)
+- [Monica](https://github.com/monicahq/monica)
 - [Open Hospital](https://www.open-hospital.org/)
+- [openMRS](https://openmrs.org/)
+- [GNU Health](https://www.gnuhealth.org/)
 - [OpenEMR](https://www.open-emr.org/)
+- [OSEHRA VistA](https://github.com/WorldVistA/VistA)
 - [LinOTP](https://www.linotp.org/)
 - [FreePBX](https://www.freepbx.org/)
 - [FreedomBox](https://freedombox.org/download/)
@@ -605,21 +587,6 @@ Privacy and Security Extensions for Firefox
 </details>
 
 <details>
-<summary><h4>Design Toolkit</h4></summary>
-
-- [CSS](https://css.gg/)
-- [Iconduck](https://iconduck.com/)
-</details>
-
-<details>
-<summary><h4>Business Tools</h4></summary>
-  
-- [Odoo](https://www.odoo.com/)
-- [Manager](https://www.manager.io/)
-- [Monica](https://github.com/monicahq/monica)
-</details>
-
-<details>
 <summary><h4>Social Media Apps</h4></summary>
 
 - [Nostrapps](https://www.nostrapps.com/)
@@ -627,6 +594,54 @@ Privacy and Security Extensions for Firefox
 - [Damus](https://damus.io/)
 - [Amethyst](https://github.com/vitorpamplona/amethyst)
 - [Snort social](https://snort.social/)
+</details>
+
+<details>
+<summary><h4>Use Cases for Home Server</h4></summary>
+
+- **File Storage and Sharing:**
+  - [Nextcloud](https://nextcloud.com/)
+  - [TrueNAS](https://www.truenas.com/)
+  - [rsync](https://rsync.samba.org/)
+  - [OwnCloud](https://owncloud.org/)
+
+- **Home Automation and IoT Hub:**
+  - [Home Assistant](https://www.home-assistant.io/)
+  - [OpenHAB](https://www.openhab.org/)
+
+- **Personal Website or Blog:**
+  - [Apache HTTP Server](https://httpd.apache.org/)
+  - [Nginx](https://nginx.org/)
+  - [WordPress](https://wordpress.org/)
+
+- **Firewall and Network Security:**
+  - [pfSense](https://www.pfsense.org/)
+  - [OPNsense](https://opnsense.org/)
+  - [VyOS](https://vyos.io/)
+
+- **Intrusion Detection and Prevention Systems (IDPS):**
+  - [Wazuh](https://github.com/wazuh/wazuh)
+  - [Zeek](https://zeek.org/)
+  - [Snort](https://www.snort.org/)
+  - [Suricata](https://suricata.io/)
+  - [Security Onion](https://securityonion.net/)
+
+- **DNS Filtering and Ad-Blocking:**
+  - [Pi-hole](https://pi-hole.net/)
+  - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+  - [Technitium DNS Server](https://technitium.com/dns/)
+
+- **Security Information and Event Management (SIEM):**
+  - [Elastic](https://github.com/elastic/elasticsearch)
+  - [Graylog](https://github.com/Graylog2/graylog2-server)
+
+- **Security Incident Response:**
+  - [TheHive Project](https://thehive-project.org/)
+  - [FIR (Fast Incident Response)](https://github.com/certsocietegenerale/FIR)
+
+- **Threat Intelligence Sharing:**
+  - [OpenCTI](https://www.opencti.io/)
+
 </details>
 
 <details>
@@ -699,50 +714,26 @@ Privacy and Security Extensions for Firefox
 </details>
 
 <details>
-<summary><h4>Use Cases for Home Server</h4></summary>
+<summary><h4>Programming</h4></summary>
 
-- **File Storage and Sharing:**
-  - [Nextcloud](https://nextcloud.com/)
-  - [TrueNAS](https://www.truenas.com/)
-  - [rsync](https://rsync.samba.org/)
-  - [OwnCloud](https://owncloud.org/)
+- [Carbon](https://carbon.vercel.app/)
+- [Uiverse](https://uiverse.io/)
+- [Transform Tools](https://transform.tools/)
+- [The Algorithms](https://the-algorithms.com/)
+- [Developer Tools](https://fmhy.pages.dev/devtools/)
+- [Quick Reference](https://quickref.me/)
+- [FindDev Tools](https://finddev.tools/)
+- [Free for Developers](https://free-for.dev/#/)
+- [Developer Roadmap](https://roadmap.sh/)
 
-- **Home Automation and IoT Hub:**
-  - [Home Assistant](https://www.home-assistant.io/)
-  - [OpenHAB](https://www.openhab.org/)
+Optimizing CSS Tools
+- [10 Frontend Performance Monitoring Tools in 2023](https://ddosify.com/blog/ten-frontend-performance-monitoring-tools-in-2023/)
+- [PurgeCSS](https://purgecss.com/)
+- [UnCSS Online](https://uncss-online.com/)
+- [cssnano](https://cssnano.co/)
+- [Stylelint](https://stylelint.io/)
 
-- **Personal Website or Blog:**
-  - [Apache HTTP Server](https://httpd.apache.org/)
-  - [Nginx](https://nginx.org/)
-  - [WordPress](https://wordpress.org/)
-
-- **Firewall and Network Security:**
-  - [pfSense](https://www.pfsense.org/)
-  - [OPNsense](https://opnsense.org/)
-  - [VyOS](https://vyos.io/)
-
-- **Intrusion Detection and Prevention Systems (IDPS):**
-  - [Wazuh](https://github.com/wazuh/wazuh)
-  - [Zeek](https://zeek.org/)
-  - [Snort](https://www.snort.org/)
-  - [Suricata](https://suricata.io/)
-  - [Security Onion](https://securityonion.net/)
-
-- **DNS Filtering and Ad-Blocking:**
-  - [Pi-hole](https://pi-hole.net/)
-  - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
-  - [Technitium DNS Server](https://technitium.com/dns/)
-
-- **Security Information and Event Management (SIEM):**
-  - [Elastic](https://github.com/elastic/elasticsearch)
-  - [Graylog](https://github.com/Graylog2/graylog2-server)
-
-- **Security Incident Response:**
-  - [TheHive Project](https://thehive-project.org/)
-  - [FIR (Fast Incident Response)](https://github.com/certsocietegenerale/FIR)
-
-- **Threat Intelligence Sharing:**
-  - [OpenCTI](https://www.opencti.io/)
-  - [MISP (Malware Information Sharing Platform)](https://www.misp-project.org/)
-  - [CRITs (Collaborative Research Into Threats)](https://crits.github.io/)
+Design Toolkit
+- [CSS](https://css.gg/)
+- [Iconduck](https://iconduck.com/)
 </details>
