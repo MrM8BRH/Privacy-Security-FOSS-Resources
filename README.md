@@ -582,11 +582,12 @@ Privacy and Security Extensions for Firefox
 <details>
 <summary><h4>Server Platforms</h4></summary>
 
+- [Open Hospital](https://www.open-hospital.org/)
+- [OpenEMR](https://www.open-emr.org/)
+- [LinOTP](https://www.linotp.org/)
 - [FreePBX](https://www.freepbx.org/)
 - [FreedomBox](https://freedombox.org/download/)
 - [Ignite Realtime](https://www.igniterealtime.org/downloads/)
-- [Open Hospital](https://www.open-hospital.org/)
-- [LinOTP](https://www.linotp.org/)
 </details>
 
 <details>
