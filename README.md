@@ -207,6 +207,7 @@ Tools
 
 - [SecureDrop](https://securedrop.org/)
 - [WikiLeaks](https://wikileaks.org/)
+- [OpenSecrets](https://www.opensecrets.org/)
 - [Cryptome](https://cryptome.org/)
 - [Distributed Denial of Secrets (DDoSecrets)](https://ddosecrets.com)
 - [GlobalLeaks](https://www.globaleaks.org/)
