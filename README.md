@@ -519,6 +519,7 @@ Privacy and Security Extensions for Firefox
 <details>
 <summary><h4>General Resources</h4></summary>
   
+- [Lockss](https://www.lockss.org/)
 - [It's FOSS](https://itsfoss.com/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [OSS Insight](https://ossinsight.io/)
