@@ -288,22 +288,8 @@ Tools
 </details>
 
 <details>
-<summary><h4>IMSI Catcher Detection and Private Peer-to-Peer Communication Tools / Secure Communication Platforms</h4></summary>
-
-- [Secure Messaging Apps](https://www.securemessagingapps.com/)
-- [Simplex Chat](https://simplex.chat/) 
-- [IronCircles](https://ironcircles.com/)
-- [qaul – قول](https://qaul.net/)
-- [Bridgefy](https://bridgefy.me/)
-- [Jami](https://jami.net/#)
-- [Tox](https://tox.chat/)
-- [XMPP](https://xmpp.org/)
-- [Keybase](https://keybase.io/)
-- [RetroShare](https://retroshare.cc/downloads.html)
-- [Manyverse](https://www.manyver.se/)
-- [Briar Project](https://briarproject.org/)
-- [Meshenger](https://cloudflare.f-droid.org/en/packages/d.d.meshenger/)
-- [Serval Mesh](https://cloudflare.f-droid.org/en/packages/org.servalproject/)
+<summary><h4>IMSI Catcher Detection and</h4></summary>
+  
 - [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer)
 - [Android IMSI Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 - [Jammer Detector](https://play.google.com/store/apps/details?id=com.microcadsystems.serge.jammerdetector)
@@ -589,13 +575,26 @@ Privacy and Security Extensions for Firefox
 </details>
 
 <details>
-<summary><h4>Social Media Apps</h4></summary>
+<summary><h4>Social Media Apps / Private Peer-to-Peer Communication Platforms</h4></summary>
 
+- [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [Nostrapps](https://www.nostrapps.com/)
-- [Iris](https://iris.to/)
-- [Damus](https://damus.io/)
-- [Amethyst](https://github.com/vitorpamplona/amethyst)
-- [Snort social](https://snort.social/)
+- [Odysee](https://odysee.com/)
+- [Mastodon](https://mastodon.social)
+- [Element](https://element.io/)
+- [Simplex Chat](https://simplex.chat/) 
+- [IronCircles](https://ironcircles.com/)
+- [qaul – قول](https://qaul.net/)
+- [Bridgefy](https://bridgefy.me/)
+- [Jami](https://jami.net/#)
+- [Tox](https://tox.chat/)
+- [XMPP](https://xmpp.org/)
+- [Keybase](https://keybase.io/)
+- [RetroShare](https://retroshare.cc/downloads.html)
+- [Manyverse](https://www.manyver.se/)
+- [Briar Project](https://briarproject.org/)
+- [Meshenger](https://cloudflare.f-droid.org/en/packages/d.d.meshenger/)
+- [Serval Mesh](https://cloudflare.f-droid.org/en/packages/org.servalproject/)
 </details>
 
 <details>
