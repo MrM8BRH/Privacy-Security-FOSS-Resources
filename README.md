@@ -32,6 +32,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 
 - [PrivacyTools.io](https://www.privacytools.io/)
 - [PrivacyTools.guide](https://privacytools.guide)
+- [Security and Privacy Advice](https://madaidans-insecurities.github.io/security-privacy-advice.html)
 - [EFF Tool Guides](https://ssd.eff.org/module-categories/tool-guides)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Awesome Privacy (Lissy93) - GitHub](https://github.com/Lissy93/awesome-privacy)
@@ -242,6 +243,7 @@ Tools
 <summary><h4>Operating Systems</h4></summary>
 
 - [NoSystemd](https://nosystemd.org/)
+- [Linux on Mobile](https://linuxonmobile.net/)
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
@@ -708,6 +710,7 @@ Privacy and Security Extensions for Firefox
 <details>
 <summary><h4>Custom Firmware for Routers</h4></summary>
 
+- [Pathvector](https://pathvector.io/)
 - [OpenWrt](https://openwrt.org/start)
 - [DD-WRT](https://dd-wrt.com/)
 - [AdvancedTomato](https://advancedtomato.com/)
