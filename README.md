@@ -582,7 +582,7 @@ Privacy and Security Extensions for Firefox
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [Nostrapps](https://www.nostrapps.com/)
 - [Odysee](https://odysee.com/)
-- [Mastodon](https://mastodon.social)
+- [Mastodon](https://github.com/mastodon/mastodon)
 - [Element](https://element.io/)
 - [Simplex Chat](https://simplex.chat/) 
 - [IronCircles](https://ironcircles.com/)
