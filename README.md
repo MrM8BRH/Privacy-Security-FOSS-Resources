@@ -37,6 +37,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Awesome Privacy (Lissy93) - GitHub](https://github.com/Lissy93/awesome-privacy)
 - [Awesome Privacy (pluja) - GitHub](https://github.com/pluja/awesome-privacy)
+- [Annual Privacy Tech Poll: longlist update](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/hEDewxQxukOHZcTqoXNdkrmioEiBb2SrObDZ9oanVM4)
 - [Security Planner by Consumer Reports](https://securityplanner.consumerreports.org/recommendations)
 - [Awesome Privacy](https://awesome-privacy.xyz/#/)
 - [The New Oil](https://thenewoil.org/index.html)
