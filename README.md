@@ -28,7 +28,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 
 ## Privacy & Security
 <details>
-<summary><h4>Empowering Digital Privacy/Security: Tools and Guides</h4></summary>
+<summary><b>Empowering Digital Privacy/Security: Tools and Guides</b></summary>
 
 - [PrivacyTools.io](https://www.privacytools.io/)
 - [PrivacyTools.guide](https://privacytools.guide)
@@ -58,7 +58,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Privacy-Focused Alternatives</h4></summary>
+<summary><b>Privacy-Focused Alternatives</b></summary>
 
 - [Switching Software](https://switching.software/)
 - [European Alternatives](https://european-alternatives.eu/categories)
@@ -82,7 +82,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>General Resources</h4></summary>
+<summary><b>General Resources</b></summary>
   
 - [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 - [StopNCII](https://stopncii.org/)
@@ -102,7 +102,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Comprehensive Malware Analysis and Detection Tools</h4></summary>
+<summary><b>Comprehensive Malware Analysis and Detection Tools</b></summary>
 
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
@@ -125,7 +125,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Testing Resources</h4></summary>
+<summary><b>Testing Resources</b></summary>
 
 - [Cloudflare - Encrypted SNI](https://www.cloudflare.com/en-gb/ssl/encrypted-sni/)
 - [Adblock Testing](https://d3ward.github.io/toolz/adblock.html)
@@ -144,7 +144,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Private Browsers</h4></summary>
+<summary><b>Private Browsers</b></summary>
   
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
@@ -157,7 +157,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Blogs/Articles</h4></summary>
+<summary><b>Blogs/Articles</b></summary>
 
 - [Center for Democracy & Technology (CDT)](https://cdt.org/)
 - [American Civil Liberties Union (ACLU) - Privacy & Technology](https://www.aclu.org/issues/privacy-technology)
@@ -188,7 +188,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>YouTube</h4></summary>
+<summary><b>YouTube</b></summary>
 
 - [PC Security Channel on YouTube](https://www.youtube.com/@pcsecuritychannel/videos)
 - [DEF CON 22 - Dr. Philip Polstra - Am I Being Spied On?](https://www.youtube.com/watch?v=Bc7WoDXhcjM)
@@ -205,7 +205,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Transparency and Whistleblower Websites/Platforms</h4></summary>
+<summary><b>Transparency and Whistleblower Websites/Platforms</b></summary>
 
 - [SecureDrop](https://securedrop.org/)
 - [WikiLeaks](https://wikileaks.org/)
@@ -216,7 +216,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Security Checkers and Breach Monitors</h4></summary>
+<summary><b>Security Checkers and Breach Monitors</b></summary>
   
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Am I Breached](https://www.amibreached.com/)
@@ -224,7 +224,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Router & DNS</h4></summary>
+<summary><b>Router & DNS</b></summary>
 
 - [Router Security](https://www.routersecurity.org/index.php)
 - [DNS Privacy Project](https://dnsprivacy.org/)
@@ -233,7 +233,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Secure Mobile Solutions</h4></summary>
+<summary><b>Secure Mobile Solutions</b></summary>
 
 - [X-Cellular](https://x-cellular.com/)
 - [Purism](https://puri.sm/)
@@ -241,7 +241,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Operating Systems</h4></summary>
+<summary><b>Operating Systems</b></summary>
 
 - [NoSystemd](https://nosystemd.org/)
 - [Linux on Mobile](https://linuxonmobile.net/)
@@ -271,7 +271,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Windows OS</h4></summary>
+<summary><b>Windows OS</b></summary>
 
 - [Hardentools](https://github.com/hardentools/hardentools)
 - [Unchecky](https://unchecky.com/)
@@ -291,7 +291,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>IMSI Catcher Detection and</h4></summary>
+<summary><b>IMSI Catcher Detection and</b></summary>
   
 - [PilferShushJammer](https://github.com/kaputnikGo/PilferShushJammer)
 - [Android IMSI Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
@@ -303,7 +303,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>File Encryption Software</h4></summary>
+<summary><b>File Encryption Software</b></summary>
 
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
 - [GNU Privacy Guard (GnuPG)](https://gnupg.org/)
@@ -316,7 +316,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Data Privacy and Secure File Handling Tools</h4></summary>
+<summary><b>Data Privacy and Secure File Handling Tools</b></summary>
 
 - [Exif Cleaner](https://exifcleaner.com/)
 - [ExifCleaner (szTheory) - GitHub](https://github.com/szTheory/exifcleaner)
@@ -331,7 +331,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Blocklist Collection</h4></summary>
+<summary><b>Blocklist Collection</b></summary>
 
 - [FilterLists](https://filterlists.com/)
 - [EasyList](https://easylist.to/)
@@ -352,7 +352,7 @@ Tools
 </details>
 
 <details>
-<summary><h4>Firefox</h4></summary>
+<summary><b>Firefox</b></summary>
 
 Firefox Profile
 - [Firefox Profilemaker](https://ffprofile.com/)
@@ -375,7 +375,7 @@ Privacy and Security Extensions for Firefox
 </details>
 
 <details>
-<summary><h4>Google Chrome</h4></summary>
+<summary><b>Google Chrome</b></summary>
 
 Privacy and Security Extensions for Google Chrome
 - [SquareX](https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe)
@@ -392,7 +392,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Ransomware Decryption Tools</h4></summary>
+<summary><b>Ransomware Decryption Tools</b></summary>
   
 - [Quick Heal Free Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
 - [No More Ransom - Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)
@@ -404,7 +404,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Useful Tools for Image Verification and Analysis</h4></summary>
+<summary><b>Useful Tools for Image Verification and Analysis</b></summary>
   
 - [TinEye](https://tineye.com/)
 - [Forensic Magnifier by 29a](https://29a.ch/photo-forensics/#forensic-magnifier)
@@ -414,7 +414,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Wikipedia</h4></summary>
+<summary><b>Wikipedia</b></summary>
   
 - [Category: Global Surveillance](https://en.wikipedia.org/wiki/Category:Global_surveillance)
 - [Surveillance](https://en.wikipedia.org/wiki/Surveillance)
@@ -437,7 +437,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Cyber Operations Groups</h4></summary>
+<summary><b>Cyber Operations Groups</b></summary>
 
 - [US Cyber Operations Groups](https://xorl.wordpress.com/2021/04/18/us-cyber-operations-groups/)
 - [Russia’s Cyber Operations Groups](https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/)
@@ -448,7 +448,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Books</h4></summary>
+<summary><b>Books</b></summary>
   
 - [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
 - [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
@@ -464,7 +464,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Documentaries and Films</h4></summary>
+<summary><b>Documentaries and Films</b></summary>
   
 - ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
 - ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
@@ -473,7 +473,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Academic Journals and Research Papers</h4></summary>
+<summary><b>Academic Journals and Research Papers</b></summary>
   
 - [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society)
 - [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
@@ -481,7 +481,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Edward Snowden</h4></summary>
+<summary><b>Edward Snowden</b></summary>
 
 - [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
 - [Edward Snowden's Twitter](https://twitter.com/Snowden)
@@ -491,7 +491,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Blogs/News/Articles (Arabic)</h4></summary>
+<summary><b>Blogs/News/Articles (Arabic)</b></summary>
 
 - <a href="https://ar.quora.com/%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%85%D8%B2%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%83%D8%B4%D9%81-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D9%83-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9" dir="ltr">هل يمكن لمزود الانترنت كشف اتصالك بشبكة الـ ڤي بي ان وفي هذه الحالة هل يوجد طريقة لمنع اكتشافه لك؟</a>
 - [SalamaTech](https://salamatech.org/)
@@ -504,7 +504,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>YouTube (Arabic)</h4></summary>
+<summary><b>YouTube (Arabic)</b></summary>
 
 - <a href="https://www.youtube.com/playlist?list=PLJyrzEL-wvYJ75QydgsrBuzC944eE8VLT" dir="ltr">ما خفي أعظم</a>
 - <a href="https://www.youtube.com/watch?v=b3NtvEmoKjQ" dir="ltr">أبرز الشركات التقنية الإسرائيلية في مجال التجسس الإلكتروني</a>
@@ -523,7 +523,7 @@ Privacy and Security Extensions for Google Chrome
 ## Free and Open-Source Software (FOSS) 
 
 <details>
-<summary><h4>General Resources</h4></summary>
+<summary><b>General Resources</b></summary>
   
 - [Lockss](https://www.lockss.org/)
 - [It's FOSS](https://itsfoss.com/)
@@ -552,7 +552,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Documentation Generators</h4></summary>
+<summary><b>Documentation Generators</b></summary>
 
 - [JSWiki](https://js.wiki/)
 - [GitBook](https://www.gitbook.com/)
@@ -564,7 +564,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Platforms</h4></summary>
+<summary><b>Platforms</b></summary>
 
 - [Odoo](https://www.odoo.com/)
 - [Manager](https://www.manager.io/)
@@ -581,7 +581,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Virtualization and Containerization</h4></summary>
+<summary><b>Virtualization and Containerization</b></summary>
   
 - [Proxmox](https://www.proxmox.com/en/)
 - [VirtualBox](https://www.virtualbox.org/)
@@ -595,7 +595,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Social Media Apps / Private Peer-to-Peer Communication Platforms</h4></summary>
+<summary><b>Social Media Apps / Private Peer-to-Peer Communication Platforms</b></summary>
 
 - [Secure Messaging Apps](https://www.securemessagingapps.com/)
 - [Nostrapps](https://www.nostrapps.com/)
@@ -618,7 +618,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Use Cases for Home Server</h4></summary>
+<summary><b>Use Cases for Home Server</b></summary>
 
 - **File Storage and Sharing:**
   - [Nextcloud](https://nextcloud.com/)
@@ -666,7 +666,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>IOS Apps</h4></summary>
+<summary><b>IOS Apps</b></summary>
 
 - [Lockdown Privacy](https://lockdownprivacy.com/)
 - [Raivo OTP](https://raivo-otp.com/)
@@ -674,7 +674,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Android Apps</h4></summary>
+<summary><b>Android Apps</b></summary>
 
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
 - [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
@@ -704,7 +704,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Mapping and Navigation</h4></summary>
+<summary><b>Mapping and Navigation</b></summary>
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
@@ -726,7 +726,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Custom Firmware for Routers</h4></summary>
+<summary><b>Custom Firmware for Routers</b></summary>
 
 - [Pathvector](https://pathvector.io/)
 - [OpenWrt](https://openwrt.org/start)
@@ -736,7 +736,7 @@ Privacy and Security Extensions for Google Chrome
 </details>
 
 <details>
-<summary><h4>Programming</h4></summary>
+<summary><b>Programming</b></summary>
 
 - [Carbon](https://carbon.vercel.app/)
 - [Uiverse](https://uiverse.io/)
