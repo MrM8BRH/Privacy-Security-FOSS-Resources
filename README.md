@@ -30,6 +30,8 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><b>Empowering Digital Privacy/Security: Tools and Guides</b></summary>
 
+- [PrivacySpy](https://privacyspy.org/)
+- [JustGetMyData](https://justgetmydata.com/)
 - [PrivacyTools.io](https://www.privacytools.io/)
 - [PrivacyTools.guide](https://privacytools.guide)
 - [Security and Privacy Advice](https://madaidans-insecurities.github.io/security-privacy-advice.html)
