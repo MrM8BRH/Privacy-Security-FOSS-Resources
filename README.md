@@ -678,9 +678,10 @@ Privacy and Security Extensions for Google Chrome
 <details>
 <summary><b>Android Apps</b></summary>
 
+- [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index.php)
+- [F-Droid](https://f-droid.org/)
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
 - [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
-- [F-Droid](https://f-droid.org/)
 - [Scrambled Exif on F-Droid](https://cloudflare.f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - [Rethink: DNS + Firewall](https://f-droid.org/en/packages/com.celzero.bravedns/)
 - [NextDNS Manager](https://f-droid.org/en/packages/com.doubleangels.nextdnsmanagement/)
