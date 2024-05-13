@@ -250,7 +250,7 @@ Tools
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
-- [Astra Linux OS](https://astralinux.ru/en/software-services/os/)
+- [Astra Linux OS](https://astralinux.ru/)
 - [ravynOS](https://ravynos.com/)
 - [microG](https://microg.org/)
 - [Whonix](https://www.whonix.org/)
