@@ -28,6 +28,53 @@ Additionally, it's worth noting that there may be alternative resources availabl
 
 ## Privacy & Security
 <details>
+<summary><b>Documentaries and Films</b></summary>
+  
+- [The Social Dilemma](https://www.imdb.com/title/tt11464826/)
+- ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
+- ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
+- ["Snowden" (2016)](https://www.imdb.com/title/tt3774114/)
+- ["The Great Hack" (2019)](https://www.imdb.com/title/tt9358204/)
+</details>
+
+<details>
+<summary><b>Books</b></summary>
+
+- [Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X)
+- [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
+- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
+- [Cypherpunks: Freedom and the Future of the Internet](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
+- [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
+- [Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)
+- [Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)
+- [We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)
+- [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)
+- [Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)
+</details>
+
+<details>
+<summary><b>General Resources</b></summary>
+  
+- [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
+- [StopNCII](https://stopncii.org/)
+- [Offensive Security Private Companies Inventory](https://xorl.wordpress.com/offensive-security-private-companies-inventory/)
+- [Anonymous Planet Links](https://anonymousplanet.org/links.html)
+- [Libreboot FAQ (Intel)](https://libreboot.org/faq.html#intel)
+- [Libreboot FAQ (AMD)](https://libreboot.org/faq.html#amd)
+- [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
+- [Reset The Net](https://pack.resetthenet.org/)
+- [Guardian Project](https://guardianproject.info/)
+- [Ethics in Apps](https://www.ethicsinapps.eu/)
+- [Clean Insights](https://cleaninsights.org/)
+- [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
+- [Telegram Security Best Practices](https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM)
+- [Telegram Limits](https://limits.tginfo.me/en)
+- [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
+</details>
+
+<details>
 <summary><b>Empowering Digital Privacy/Security: Tools and Guides</b></summary>
 
 - [PrivacySpy](https://privacyspy.org/)
@@ -81,26 +128,6 @@ Tools
 - [Privacy-Focused Alternatives to Google Translate](https://alternativeto.net/software/google-translate/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to Android Market](https://alternativeto.net/software/android-market/?feature=privacy-focused&license=opensource)
 - [Privacy-Focused Alternatives to Microsoft Office Suite](https://alternativeto.net/software/microsoft-office-suite/?feature=privacy-focused&license=opensource)
-</details>
-
-<details>
-<summary><b>General Resources</b></summary>
-  
-- [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
-- [StopNCII](https://stopncii.org/)
-- [Offensive Security Private Companies Inventory](https://xorl.wordpress.com/offensive-security-private-companies-inventory/)
-- [Anonymous Planet Links](https://anonymousplanet.org/links.html)
-- [Libreboot FAQ (Intel)](https://libreboot.org/faq.html#intel)
-- [Libreboot FAQ (AMD)](https://libreboot.org/faq.html#amd)
-- [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
-- [Reset The Net](https://pack.resetthenet.org/)
-- [Guardian Project](https://guardianproject.info/)
-- [Ethics in Apps](https://www.ethicsinapps.eu/)
-- [Clean Insights](https://cleaninsights.org/)
-- [Techlore - Go Incognito](https://www.techlore.tech/goincognito.html)
-- [Telegram Security Best Practices](https://officercia.mirror.xyz/i9-pRa_r9Of1RNf-tnkhJLO9ho3gwhBK-4ARHNFtmvM)
-- [Telegram Limits](https://limits.tginfo.me/en)
-- [Tracking the Trackers Wiki](https://gitlab.com/trackingthetrackers/wiki)
 </details>
 
 <details>
@@ -447,31 +474,6 @@ Privacy and Security Extensions for Google Chrome
 - [EU Cyber Operations Groups](https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/)
 - [North Korea (DPRK) Cyber Operations Groups](https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/)
 - [Chinese Cyber Operations Groups](https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/)
-</details>
-
-<details>
-<summary><b>Books</b></summary>
-  
-- [No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State](https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586)
-- [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
-- [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
-- [Cypherpunks: Freedom and the Future of the Internet](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006)
-- [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
-- [Spies, Lies, and Algorithms: The American Intelligence in the Digital Age](https://www.amazon.com/Spies-Lies-Algorithms-American-Intelligence/dp/B09R965H5C/)
-- [Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World](https://www.amazon.com/Shadow-Government-Surveillance-Security-Single-Superpower/dp/1608463656/)
-- [We See It All: Liberty and Justice in an Age of Perpetual Surveillance](https://www.amazon.com/We-See-All-Perpetual-Surveillance-ebook/dp/B0881YCV9C/)
-- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520)
-- [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/)
-- [Pegasus: How a Spy in Your Pocket Threatens the End of Privacy, Dignity, and Democracy](https://www.amazon.com/Pegasus-Threatens-Privacy-Dignity-Democracy/dp/1250858690/)
-</details>
-
-<details>
-<summary><b>Documentaries and Films</b></summary>
-  
-- ["Citizenfour" (2014)](https://www.imdb.com/title/tt4044364/)
-- ["Terms and Conditions May Apply" (2013)](https://www.imdb.com/title/tt2084953/)
-- ["Snowden" (2016)](https://www.imdb.com/title/tt3774114/)
-- ["The Great Hack" (2019)](https://www.imdb.com/title/tt9358204/)
 </details>
 
 <details>
