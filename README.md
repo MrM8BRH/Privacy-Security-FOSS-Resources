@@ -55,6 +55,16 @@ Additionally, it's worth noting that there may be alternative resources availabl
 </details>
 
 <details>
+<summary><b>Edward Snowden</b></summary>
+
+- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden's Twitter](https://twitter.com/Snowden)
+- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
+- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
+- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
+</details>
+
+<details>
 <summary><b>General Resources</b></summary>
   
 - [Why Privacy Matters - Privacy Guides](https://www.privacyguides.org/en/basics/why-privacy-matters/)
@@ -482,16 +492,6 @@ Privacy and Security Extensions for Google Chrome
 - [Surveillance & Society](https://ojs.library.queensu.ca/index.php/surveillance-and-society)
 - [The NSA Files by The Guardian](https://www.theguardian.com/world/the-nsa-files)
 - [Journal of Privacy and Confidentiality](https://journalprivacyconfidentiality.org/)
-</details>
-
-<details>
-<summary><b>Edward Snowden</b></summary>
-
-- [Edward Snowden's Substack](https://edwardsnowden.substack.com/)
-- [Edward Snowden's Twitter](https://twitter.com/Snowden)
-- [Business Insider - Snowden Leaks Timeline](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
-- [The Intercept - Snowden SIDtoday](https://theintercept.com/snowden-sidtoday/)
-- [Snowden Archive](https://github.com/iamcryptoki/snowden-archive)
 </details>
 
 <details>
