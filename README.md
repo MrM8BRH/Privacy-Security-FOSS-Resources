@@ -570,6 +570,7 @@ Privacy and Security Extensions for Google Chrome
 <details>
 <summary><b>Platforms</b></summary>
 
+- [Open Anatomy](https://www.openanatomy.org/)
 - [Odoo](https://www.odoo.com/)
 - [Manager](https://www.manager.io/)
 - [Monica](https://github.com/monicahq/monica)
