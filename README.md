@@ -188,7 +188,8 @@ Tools
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 - [Waterfox](https://www.waterfox.net/)
-- [Brave](https://brave.com/)
+- [SRWare Iron](https://www.srware.net/iron/)
+- [Brave](https://brave.com/).
 - [Iridium Browser](https://iridiumbrowser.de/)
 - [Onion Browser](https://onionbrowser.com/)
 - [Bromite](https://www.bromite.org/)
