@@ -185,11 +185,12 @@ Tools
 <details>
 <summary><b>Private Browsers</b></summary>
   
+- [LibreWolf](https://librewolf.net/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 - [Waterfox](https://www.waterfox.net/)
 - [SRWare Iron](https://www.srware.net/iron/)
-- [Brave](https://brave.com/).
+- [Brave](https://brave.com/)
 - [Iridium Browser](https://iridiumbrowser.de/)
 - [Onion Browser](https://onionbrowser.com/)
 - [Bromite](https://www.bromite.org/)
