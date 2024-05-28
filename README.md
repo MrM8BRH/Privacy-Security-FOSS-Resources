@@ -185,6 +185,7 @@ Tools
 <details>
 <summary><b>Private Browsers</b></summary>
   
+- [Mullvad](https://mullvad.net/en/browser)
 - [LibreWolf](https://librewolf.net/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
