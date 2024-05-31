@@ -399,6 +399,7 @@ Tools
 
 Firefox Profile
 - [Firefox Profilemaker](https://ffprofile.com/)
+- [ArkenFox](https://github.com/arkenfox/user.js/)
 - [FireFox Privacy Script](https://github.com/simeononsecurity/FireFox-Privacy-Script)
 
 Privacy and Security Extensions for Firefox
