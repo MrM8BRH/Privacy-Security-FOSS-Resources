@@ -71,6 +71,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - [StopNCII](https://stopncii.org/)
 - [Offensive Security Private Companies Inventory](https://xorl.wordpress.com/offensive-security-private-companies-inventory/)
 - [Anonymous Planet Links](https://anonymousplanet.org/links.html)
+- [Why you shouldn't trust Discord](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord)
 - [Libreboot FAQ (Intel)](https://libreboot.org/faq.html#intel)
 - [Libreboot FAQ (AMD)](https://libreboot.org/faq.html#amd)
 - [JustDeleteMe](https://backgroundchecks.org/justdeleteme/#)
