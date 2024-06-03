@@ -201,6 +201,24 @@ Tools
 </details>
 
 <details>
+<summary><b>Search Engines</b></summary>
+  
+- [Qwant](https://www.qwant.com/)
+- [Searx](https://github.com/searx/searx)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Startpage](https://www.startpage.com/)
+- [lukol](https://www.lukol.com/)
+- [Disconnect](https://search.disconnect.me/)
+- [Oscobo](https://oscobo.com/)
+- [Brave](https://search.brave.com/)
+- [whoogle-search](https://github.com/benbusby/whoogle-search)
+- [Ecosia](https://www.ecosia.org/)
+- [MetaGer](https://metager.org/)
+- [Mojeek](https://www.mojeek.com/)
+- [Swisscows](https://swisscows.com/en)
+</details>
+
+<details>
 <summary><b>Password Manager</b></summary>
   
 - [Passky](https://passky.org/)
