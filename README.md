@@ -619,6 +619,7 @@ Privacy and Security Extensions for Google Chrome
 <details>
 <summary><b>Platforms</b></summary>
 
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma)
 - [Gluu](https://gluu.org/)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 - [Open Anatomy](https://www.openanatomy.org/)
