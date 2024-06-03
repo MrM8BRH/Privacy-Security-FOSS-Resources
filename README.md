@@ -215,6 +215,14 @@ Tools
 </details>
 
 <details>
+<summary><b>Authenticator Apps</b></summary>
+
+- [Aegis Authenticator](https://getaegis.app/)
+- [Raivo OTP](https://raivo-otp.com/)
+- [2FAS](https://2fas.com/)
+</details>
+
+<details>
 <summary><b>Blogs/Articles</b></summary>
 
 - [Center for Democracy & Technology (CDT)](https://cdt.org/)
