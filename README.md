@@ -201,6 +201,20 @@ Tools
 </details>
 
 <details>
+<summary><b>Password Manager</b></summary>
+  
+- [Passky](https://passky.org/)
+- [Passbolt](https://www.passbolt.com/)
+- [KeePassXC](https://keepassxc.org/)
+- [KeeWeb](https://keeweb.info/)
+- [1Password](https://1password.com/)
+- [Bitwarden](https://bitwarden.com/)
+- [Spectre](https://spectre.app/)
+- [NordPass](https://nordpass.com/)
+- [LessPass](https://www.lesspass.com/#/)
+</details>
+
+<details>
 <summary><b>Blogs/Articles</b></summary>
 
 - [Center for Democracy & Technology (CDT)](https://cdt.org/)
