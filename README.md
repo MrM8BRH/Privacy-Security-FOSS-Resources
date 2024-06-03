@@ -273,6 +273,16 @@ Tools
 - [Router Security](https://www.routersecurity.org/index.php)
 - [DNS Privacy Project](https://dnsprivacy.org/)
 - [AdGuard DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)
+- [DnsFilter](https://www.dnsfilter.com/)
+- [Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)
+- [OpenDNS](https://www.opendns.com/)
+- [NextDNS](https://nextdns.io/)
+- [OpenNIC](https://www.opennic.org/)
+- [Quad9](https://www.quad9.net/)
+- [DNS Watch](https://dns.watch/)
+- [DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
+- [DNS Performance Analytics and Comparison](https://www.dnsperf.com/)
+- [YogaDNS](https://yogadns.com/)
 - [CleanBrowsing DNS Performance Test](https://github.com/cleanbrowsing/dnsperftest)
 </details>
 
