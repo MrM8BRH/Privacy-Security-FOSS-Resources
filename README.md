@@ -357,6 +357,24 @@ Tools
 </details>
 
 <details>
+<summary><b>VPN</b></summary>
+  
+- [IPVanish](https://www.ipvanish.com/)
+- [Proton VPN](https://protonvpn.com/)
+- [NordVPN](https://nordvpn.com/)
+- [Windscribe](https://windscribe.com/)
+- [Surfshark](https://surfshark.com/)
+- [CyberGhost](https://www.cyberghostvpn.com/)
+- [PiVPN](https://www.pivpn.io/)
+- [OpenVPN](https://openvpn.net/)
+- [WireGuard](https://www.wireguard.com/)
+- [IVPN](https://www.ivpn.net/)
+- [Mullvad VPN](https://mullvad.net/en/vpn)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [Sentinel](https://www.sentinel.co/)
+</details>
+
+<details>
 <summary><b>Email</b></summary>
   
 - [Tuta Mail](https://tuta.com/)
