@@ -357,6 +357,21 @@ Tools
 </details>
 
 <details>
+<summary><b>Email</b></summary>
+  
+- [Tuta Mail](https://tuta.com/)
+- [Proton](https://proton.me/)
+- [SimpleLogin](https://simplelogin.io/)
+- [Mailvelope](https://mailvelope.com/en)
+- [Posteo](https://posteo.de/en)
+- [Riseup Email](https://riseup.net/email)
+- [MailBox](https://mailbox.org/en/)
+- [Disroot](https://disroot.org/en/services/email)
+- [StartMail](https://www.startmail.com/)
+</details>
+
+
+<details>
 <summary><b>File Encryption Software</b></summary>
 
 - [VeraCrypt](https://veracrypt.fr/en/Home.html)
