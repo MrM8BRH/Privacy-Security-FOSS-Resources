@@ -399,6 +399,7 @@ Tools
 <details>
 <summary><b>VPN</b></summary>
   
+- [VpnHood](https://github.com/vpnhood/VpnHood)
 - [IPVanish](https://www.ipvanish.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [NordVPN](https://nordvpn.com/)
