@@ -120,6 +120,7 @@ Tools
 <details>
 <summary><b>Privacy-Focused Alternatives</b></summary>
 
+- [Kycnot.me](https://kycnot.me/)
 - [Switching Software](https://switching.software/)
 - [European Alternatives](https://european-alternatives.eu/categories)
 - [Mozilla Foundation - Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
