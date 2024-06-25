@@ -17,7 +17,7 @@
   
 </div>
 
-**Note**:
+## Note
 
 
 This repository is a collection of privacy, security, and FOSS resources that I have gathered over time. While I have made an effort to include resources that prioritize privacy and security, **I cannot guarantee that all resources listed are completely privacy-friendly or secure**. It's important to do your own research and due diligence before using any resource. You may want to consult with communities or experts in the field, or search for alternative options that may better suit your needs.
@@ -25,6 +25,25 @@ This repository is a collection of privacy, security, and FOSS resources that I 
 Please keep in mind that privacy and security are constantly evolving fields, and what may have been considered secure or privacy-friendly in the past may no longer be the case. It's essential to stay informed and up-to-date on the latest developments and best practices.
 
 Additionally, it's worth noting that there may be alternative resources available that are not included in this repository. It's always a good idea to explore different options and compare their features, privacy policies, and security measures before making a decision.
+
+## Privacy and Security Tips
+- Avoid Untrusted Links: Do not open links from unknown or untrusted sources.
+- Verify Trusted Links: Even when you receive links from trusted individuals, verify their safety by checking the domain and subdomain. You can also scan the link using online platforms like VirusTotal.
+- Be Cautious with QR Codes: Do not scan QR codes from untrusted sources.
+- Download Applications Wisely: Avoid downloading applications from untrusted sources. Even when using official stores like Google Play, exercise caution.
+- Keep Software Updated: Update your applications from official sources and ensure your operating system is updated regularly.
+- Protect Personal Information: Do not share your personal information online.
+- Limit Big Tech Use: Minimize the use of services from big tech companies like Google, Meta, and Microsoft. Explore privacy-focused alternatives.
+- Use Antivirus Software: Employ reputable antivirus software such as Bitdefender or Kaspersky.
+- Use Firewalls: Implement firewalls like Portmaster or RethinkDNS.
+- Opt for Secure DNS: Use reliable DNS services such as Cloudflare or Quad9.
+- Educate Users: Educate yourself and others about safe online practices and the dangers of phishing to reduce malware risks.
+- Regular Backups: Regularly back up your data to ensure critical information can be restored in case of ransomware attacks.
+- Use VPNs: Enhance your online privacy and security by using a VPN.
+- Secure Email Services: Use secure email services like Tutanota or ProtonMail.
+- Avoid Cracked Software: Do not use cracked software. Look for open-source alternatives that you can host on your assets.
+- Stay Informed: Learn about deepfakes and global surveillance issues, as highlighted by Edward Snowden.
+- Use Debloater Apps: Remove telemetry using debloater applications.
 
 ## Privacy & Security
 <details>
