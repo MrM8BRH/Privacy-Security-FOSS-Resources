@@ -26,7 +26,9 @@ Please keep in mind that privacy and security are constantly evolving fields, an
 
 Additionally, it's worth noting that there may be alternative resources available that are not included in this repository. It's always a good idea to explore different options and compare their features, privacy policies, and security measures before making a decision.
 
-## Privacy and Security Tips
+<details>
+<summary><b>Privacy and Security Tips</b></summary>
+
 - Avoid Untrusted Links: Do not open links from unknown or untrusted sources.
 - Verify Trusted Links: Even when you receive links from trusted individuals, verify their safety by checking the domain and subdomain. You can also scan the link using online platforms like VirusTotal.
 - Be Cautious with QR Codes: Do not scan QR codes from untrusted sources.
@@ -44,6 +46,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 - Avoid Cracked Software: Do not use cracked software. Look for open-source alternatives that you can host on your assets.
 - Stay Informed: Learn about deepfakes and global surveillance issues, as highlighted by Edward Snowden.
 - Use Debloater Apps: Remove telemetry using debloater applications.
+</details>
 
 ## Privacy & Security
 <details>
@@ -684,6 +687,7 @@ Privacy and Security Extensions for Google Chrome
 - [Gluu](https://gluu.org/)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 - [Open Anatomy](https://www.openanatomy.org/)
+- [Neurotorium](https://neurotorium.org/)
 - [Odoo](https://www.odoo.com/)
 - [Manager](https://www.manager.io/)
 - [Monica](https://github.com/monicahq/monica)
