@@ -29,6 +29,7 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><b>Privacy and Security Tips</b></summary>
 
+- [Personal Security Checklist - The ultimate list of tips to secure your digital life](https://github.com/Lissy93/personal-security-checklist)
 - Avoid Untrusted Links: Do not open links from unknown or untrusted sources.
 - Verify Trusted Links: Even when you receive links from trusted individuals, verify their safety by checking the domain and subdomain. You can also scan the link using online platforms like VirusTotal.
 - Be Cautious with QR Codes: Do not scan QR codes from untrusted sources.
