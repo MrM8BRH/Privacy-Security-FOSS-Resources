@@ -356,6 +356,7 @@ Tools
 - [X-Cellular](https://x-cellular.com/)
 - [Purism](https://puri.sm/)
 - [Blackphone 2](https://www.encrypted-os.com/encrypted-devices/)
+- [Shift](https://www.shift.eco/en/shiftphones-2/)
 </details>
 
 <details>
