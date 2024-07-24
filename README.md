@@ -51,6 +51,20 @@ Additionally, it's worth noting that there may be alternative resources availabl
 
 ## Privacy & Security
 <details>
+<summary><b>Reddit</b></summary>
+  
+- [DeGoogle](https://www.reddit.com/r/degoogle/)
+- [PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)
+- [privacy](https://www.reddit.com/r/privacy/)
+- [TOR](https://www.reddit.com/r/TOR/)
+- [Qubes](https://www.reddit.com/r/Qubes/)
+- [Tails](https://www.reddit.com/r/tails/)
+- [Whonix](https://www.reddit.com/r/Whonix/)
+- [PrivacySecurityOSINT](https://www.reddit.com/r/PrivacySecurityOSINT/)
+- [privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/)
+</details>
+
+<details>
 <summary><b>Documentaries and Films</b></summary>
   
 - [The Social Dilemma](https://www.imdb.com/title/tt11464826/)
