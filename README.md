@@ -395,7 +395,6 @@ Tools
 - [postmarketOS](https://postmarketos.org/)
 - [PureOS](https://www.pureos.net/)
 - [Copperhead OS](https://copperhead.co/android/)
-- [AOKP (Android Open Kang Project)](https://aokp.co/)
 - [AICP (Android Ice Cold Project)](https://aicp-rom.com/)
 - [Atlas OS](https://atlasos.net/)
 - [Revi](https://www.revi.cc/)
