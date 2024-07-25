@@ -383,7 +383,6 @@ Tools
 - [Linux Kodachi](https://www.digi77.com/linux-kodachi/)
 - [Astra Linux OS](https://astralinux.ru/)
 - [ravynOS](https://ravynos.com/)
-- [microG](https://microg.org/)
 - [Whonix](https://www.whonix.org/)
 - [Subgraph OS](https://subgraph.com/)
 - [GrapheneOS](https://grapheneos.org/)
@@ -814,10 +813,17 @@ Privacy and Security Extensions for Google Chrome
 <details>
 <summary><b>Android Apps</b></summary>
 
+Store
 - [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index.php)
 - [F-Droid](https://f-droid.org/) + [Known Repositories](https://forum.f-droid.org/t/known-repositories/721)
+- [Aurora Store](https://auroraoss.com/)
+- [FFUpdater](https://github.com/Tobi823/ffupdater)
+
+MISC (Resources and Apps)
+- [fossdroid - Reddit](https://www.reddit.com/r/fossdroid/)
 - [Mastodon Profile - foss_android](https://mstdn.social/@foss_android)
 - [Matrix Chatroom - FOSS Android](https://matrix.to/#/#foss_android:matrix.org)
+- [microG](https://microg.org/)
 - [Scrambled Exif on F-Droid](https://cloudflare.f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 - [Rethink: DNS + Firewall](https://f-droid.org/en/packages/com.celzero.bravedns/)
 - [NextDNS Manager](https://f-droid.org/en/packages/com.doubleangels.nextdnsmanagement/)
@@ -837,7 +843,6 @@ Privacy and Security Extensions for Google Chrome
 - [Onionshare](https://f-droid.org/en/packages/org.onionshare.android.fdroid/)
 - [AuthPass](https://f-droid.org/en/packages/design.codeux.authpass.fdroid/)
 - [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/)
-- [Aurora Store](https://auroraoss.com/)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [Bitwarden Mobile](https://github.com/bitwarden/mobile)
 - [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
