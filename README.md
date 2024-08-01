@@ -123,6 +123,35 @@ Additionally, it's worth noting that there may be alternative resources availabl
 </details>
 
 <details>
+<summary><b>Let's Decentralize: Alternatives to the standard internet stack</b></summary>
+
+Routing networks
+- [Tor](https://www.torproject.org/)
+- [I2P](https://geti2p.net/en/)
+- [Lokinet](https://lokinet.org/)
+- [Yggdrasil](https://yggdrasil-network.github.io/)
+- [Reticulum](https://reticulum.network/)
+
+Peer-to-peer website sharing
+- [ZeroNet](https://zeronet.io/)
+- [IPFS](https://ipfs.tech/)
+- [Hyphanet](https://freenetproject.org)
+- [Hyperdrive](https://docs.pears.com/)
+
+Protocols
+- [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol))
+- [Gemini](https://web.archive.org/web/20200501075437/https://gemini.circumlunar.space/)
+- [Nex](https://web.archive.org/web/20240315022828/https://nightfall.city/nex/info/specification.txt)
+- [Scroll](https://web.archive.org/web/20240522190913/http://portal.mozz.us/gemini/scrollprotocol.us.to/)
+
+Miscellaneous
+- [fediverse](https://en.wikipedia.org/wiki/Fediverse)
+- [XMPP](https://en.wikipedia.org/wiki/XMPP)
+- [Git](https://en.wikipedia.org/wiki/Git)
+- [Webrings](https://ring.recurse.com/)
+</details>
+
+<details>
 <summary><b>Empowering Digital Privacy/Security: Tools and Guides</b></summary>
 
 - [PrivacySpy](https://privacyspy.org/)
