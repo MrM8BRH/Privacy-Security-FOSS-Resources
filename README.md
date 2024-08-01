@@ -125,6 +125,8 @@ Additionally, it's worth noting that there may be alternative resources availabl
 <details>
 <summary><b>Let's Decentralize: Alternatives to the standard internet stack</b></summary>
 
+[Source](https://letsdecentralize.org/)
+
 Routing networks
 - [Tor](https://www.torproject.org/)
 - [I2P](https://geti2p.net/en/)
