@@ -18,6 +18,6 @@
 <br>
 <br>
 <br>
-<p><b><a href="https://start.me/p/ogxO2x/privacy-security-foss-resources">Start Page Link</a></b></p>
+<p><b><a href="https://start.me/p/Kgj6nq/privacy-security-foss-resources">Start Page Link</a></b></p>
 
 </div>
